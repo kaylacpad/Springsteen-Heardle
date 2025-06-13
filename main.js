@@ -3830,7 +3830,7 @@ M(s, "class", "flex flex-1"),
       c() {
         (n = w("div")),
         (n.innerHTML =
-          '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Springsteen songs. Each song is randomly chosen from his entire discography, including special live versions, B-sides, and outtakes. Please refresh your browser (even if you are in between attempts) if your song guess does not populate.</p>\n\n<p class="mb-3">Made by <a href="https://twitter.com/kaylacp_">@kaylacp_</a>. All copyright goes to Springsteen, Columbia Records, and other relevant parties.</p>\n\n<p class="mb-3"></p>\n\n<p class="text-xs mb-3 text-custom-line">Prepared with SoundCloud and powered by Netlify.</p>',
+          ''<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Springsteen songs. Each song is randomly chosen from his entire discography, including special live versions, B-sides, and outtakes. Please refresh your browser (even if you are in between attempts) if your song guess does not populate.</p> \n\n<p class="mb-3">Made by <a href="https://twitter.com/kaylacp_">@kaylacp_</a>. All copyright goes to Springsteen, Columbia Records, and other relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>. Powered by <a href="https://netlify.com/">Netlify</a>.'),
         M(n, "class", "text");
       },
       m(e, t) {
