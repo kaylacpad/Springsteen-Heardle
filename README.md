@@ -1,6 +1,6 @@
 # springsteen-heardle
 
-_[Springsteen Heardle](https://springsteen-heardle.glitch.me/](https://springsteenheardle.netlify.app/) by [@kaylacp_](https://twitter.com/kaylacp_)_
+[Springsteen Heardle](https://springsteenheardle.netlify.app/)_ by [@kaylacp_](https://twitter.com/kaylacp_)_
 
 Updated as of June 12, 2025
 
