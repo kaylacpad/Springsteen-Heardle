@@ -4674,7 +4674,7 @@ function Nt(t) {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "Springsteen Heardle #" + (s.id - 7),
+          let e = "Springsteen Heardle #" + (s.id - 6),
             t = "";
           a
             ?
