@@ -9119,7 +9119,6 @@ function Nt(t) {
      "Bruce Springsteen - The Promise",
      "Bruce Springsteen - Galveston Bay",
      "Bruce Springsteen - For You",
-     "Bruce Springsteen - Rain in the River",
      "Bruce Springsteen - You Can Look (But You Better Not Touch)",
      "Bruce Springsteen - Life Itself",
      "Bruce Springsteen - Hello Sunshine",
@@ -9615,10 +9614,6 @@ function Nt(t) {
           {
             url: "https://soundcloud.com/brucespringsteen/for-you?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Bruce Springsteen - For You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rain-in-the-river?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rain in the River",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/you-can-look-but-you-better?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
