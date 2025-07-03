@@ -4697,7 +4697,7 @@ function Nt(t) {
             "\n\n" +
             t +
             "\n\n" +
-            "#SpringsteenHeardle #Heardle @RockHeardles https://springsteenheardle.netlify.app/";
+            "#BruceSpringsteen #SpringsteenHeardle #Heardle @RockHeardles https://springsteenheardle.netlify.app/";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
