@@ -4674,7 +4674,7 @@ function Nt(t) {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "Springsteen Heardle #" + (s.id - 4),
+          let e = "Springsteen Heardle #" + (s.id - 6),
             t = "";
           a
             ?
@@ -9118,6 +9118,7 @@ function Nt(t) {
      "Bruce Springsteen - Frankie Fell In Love",
      "Bruce Springsteen - The Promise",
      "Bruce Springsteen - Galveston Bay",
+     "REMOVED SONG",
      "Bruce Springsteen - For You",
      "Bruce Springsteen - You Can Look (But You Better Not Touch)",
      "Bruce Springsteen - Life Itself",
@@ -9610,6 +9611,10 @@ function Nt(t) {
           {
             url: "https://soundcloud.com/brucespringsteen/galveston-bay-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Bruce Springsteen - Galveston Bay",
+          },
+          {
+            url: "https://soundcloud.com/springsteenheardle/placeholder",
+            answer: "REMOVED SONG"
           },
           {
             url: "https://soundcloud.com/brucespringsteen/for-you?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
