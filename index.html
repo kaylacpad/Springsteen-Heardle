@@ -65,14 +65,13 @@
         if (importParam) {
           try {
             const stats = JSON.parse(decodeURIComponent(importParam));
-            for (let key in stats) {
-              localStorage.setItem(key, stats[key]);
+            if (stats.userStats) {
+              localStorage.setItem("userStats", stats.userStats);
+              alert("✅ Your Springsteen Heardle stats have been transferred successfully!");
             }
-            alert("✅ Your Springsteen Heardle stats have been transferred successfully!");
-            // Clean up URL
             window.history.replaceState({}, document.title, window.location.pathname);
           } catch (e) {
-            alert("⚠️ Failed to import your stats. Please try again.");
+            alert("⚠️ Failed to import your stats.");
             console.error("Error importing stats:", e);
           }
         }
@@ -80,4 +79,3 @@
     </script>
   </body>
 </html>
-
