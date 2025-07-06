@@ -58,24 +58,32 @@
   <body>
     <!-- Import stats from old site if available -->
     <script>
-      (function importStatsFromUrl() {
+      window.addEventListener("DOMContentLoaded", () => {
         const params = new URLSearchParams(window.location.search);
         const importParam = params.get("import");
 
         if (importParam) {
           try {
             const stats = JSON.parse(decodeURIComponent(importParam));
+
             if (stats.userStats) {
-              localStorage.setItem("userStats", stats.userStats);
+              // ✅ FIXED: save a JSON string, not [object Object]
+              const dataToStore = Array.isArray(stats.userStats)
+                ? stats.userStats
+                : JSON.parse(stats.userStats);
+
+              localStorage.setItem("userStats", JSON.stringify(dataToStore));
               alert("✅ Your Springsteen Heardle stats have been transferred successfully!");
             }
+
             window.history.replaceState({}, document.title, window.location.pathname);
           } catch (e) {
             alert("⚠️ Failed to import your stats.");
             console.error("Error importing stats:", e);
           }
         }
-      })();
+      });
     </script>
   </body>
 </html>
+
