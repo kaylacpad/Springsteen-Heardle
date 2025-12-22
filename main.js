@@ -9382,6 +9382,7 @@ function Nt(t) {
      "Bruce Springsteen - Backstreets",
      "Bruce Springsteen - Candy’s Boy",
      "Bruce Springsteen - Ghosts",
+     "Bruce Springsteen - Santa Claus Is Comin' to Town",
      "Bruce Springsteen - Talk to Me",
      "Bruce Springsteen - One Way Street",
      "Bruce Springsteen - Iceman",
@@ -10667,6 +10668,10 @@ function Nt(t) {
           {
             url: "https://soundcloud.com/brucespringsteen/ghosts?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Bruce Springsteen - Ghosts",
+          },
+          {
+            url: "https://soundcloud.com/brucespringsteen/santa-claus-is-comin-to-town?si=8d69ef78dd304ff3adaa11671c43ba5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bruce Springsteen - Santa Claus Is Comin' to Town",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/talk-to-me?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
