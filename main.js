@@ -791,9 +791,11 @@ Q(a.$$.fragment),
 // Remove this line:
 // (u.textContent = "Springsteen Heardle"),
 
-// Instead, add the logo image:
+// Updated: text-only title (no image)
 (() => {
-  u.textContent = ""; // clear any text
+  u.textContent = "Springsteen Heardle";
+})();
+
 
   const img = document.createElement("img");
   img.src = "https://cdn.glitch.global/ca7ad002-6962-46b2-b920-fe1e695a183e/Springsteen.png?v=1749708582670";
