@@ -791,10 +791,8 @@ Q(a.$$.fragment),
 // Remove this line:
 // (u.textContent = "Springsteen Heardle"),
 
-// Updated: text-only title (no image)
-(() => {
-  u.textContent = "Springsteen Heardle";
-})();
+// Instead, add the logo image: 
+  (() => { u.textContent = ""; // clear any text
 
 
   const img = document.createElement("img");
