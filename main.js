@@ -797,7 +797,7 @@ Q(a.$$.fragment),
 
   const img = document.createElement("img");
   img.src = "https://cdn.glitch.global/ca7ad002-6962-46b2-b920-fe1e695a183e/Springsteen.png?v=1749708582670";
-  img.alt = "Springsteen Heardle Logo";
+  img.alt = "Springsteen Heardle";
   img.style.maxWidth = "300px";
   img.style.width = "100%";
   img.style.height = "auto";
