@@ -9197,7 +9197,7 @@ function Nt(t) {
      "Bruce Springsteen - Chasin’ Wild Horses",
      "Bruce Springsteen - Cautious Man",
      "Bruce Springsteen - My Love Will Not Let You Down",
-     "Bruce Springsteen - Racing in the Street (’78 version)",
+     "Bruce Springsteen - Racing in the Street (’78 version)",
      "Bruce Springsteen - Happy",
      "Bruce Springsteen - When You’re Alone",
      "Bruce Springsteen - Rendezvous",
@@ -9931,7 +9931,7 @@ function Nt(t) {
           },
           {
             url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
+            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
@@ -11921,15 +11921,14 @@ let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
               name: v,
             }),
             setTimeout(() => {
+              if (document.querySelector(".random-btn")) return;
               const btn = document.createElement("button");
               btn.textContent = "🎸 Play a Random Song";
-              btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;";
+              btn.classList.add("random-btn");
+              btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;max-width:400px;margin-left:auto;margin-right:auto;";
               btn.onclick = () => { window.location.href = window.location.pathname + "?random=true"; };
-              const modal = document.querySelector(".modal");
-              if (modal && !modal.querySelector(".random-btn")) {
-                btn.classList.add("random-btn");
-                modal.appendChild(btn);
-              }
+              const target = document.querySelector(".modal") || document.querySelector("main") || document.body;
+              target.appendChild(btn);
             }, 500));
       },
       function(e) {
