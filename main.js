@@ -796,7 +796,7 @@ Q(a.$$.fragment),
 
 
   const img = document.createElement("img");
-  img.src = "https://cdn.glitch.global/ca7ad002-6962-46b2-b920-fe1e695a183e/Springsteen.png?v=1749708582670";
+  img.src = "https://raw.githubusercontent.com/kaylacpad/Springsteen-Heardle/main/Springsteen.png";
   img.alt = "Springsteen Heardle";
   img.style.maxWidth = "300px";
   img.style.width = "100%";
@@ -4236,7 +4236,7 @@ function Nt(t) {
             (h = x()),
             (randomBtn = w("button")),
             (randomBtn.textContent = "🎸 Play a Random Song"),
-            M(randomBtn, "style", "margin-top:12px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;"),
+            M(randomBtn, "style", "margin-top:12px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;position:relative;z-index:9999;pointer-events:all;"),
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
@@ -4276,7 +4276,7 @@ function Nt(t) {
             p(t, c),
             ee(d, c, null),
             p(c, randomBtn),
-            (randomBtn.onclick = function() {
+            randomBtn.addEventListener("click", function() {
               try {
                 const stats = JSON.parse(localStorage.getItem("userStats") || "[]");
                 localStorage.setItem("userStats_daily_backup", JSON.stringify(stats));
@@ -9212,7 +9212,7 @@ function Nt(t) {
      "Bruce Springsteen - Chasin’ Wild Horses",
      "Bruce Springsteen - Cautious Man",
      "Bruce Springsteen - My Love Will Not Let You Down",
-     "Bruce Springsteen - Racing in the Street (’78 version)",
+     "Bruce Springsteen - Racing in the Street (’78 version)",
      "Bruce Springsteen - Happy",
      "Bruce Springsteen - When You’re Alone",
      "Bruce Springsteen - Rendezvous",
@@ -9946,7 +9946,7 @@ function Nt(t) {
           },
           {
             url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
+            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
