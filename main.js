@@ -11774,11 +11774,11 @@ let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
     null == localStorage.getItem("userStats") ?
       ((h = []), localStorage.setItem("userStats", JSON.stringify(h))) :
       (h = JSON.parse(localStorage.getItem("userStats"))),
-      (f = h.find((e) => e.id === l.id)),
+      (f = isRandom ? undefined : h.find((e) => e.id === l.id)),
       void 0 === f &&
       ((f = l),
-        h.push(f),
-        localStorage.setItem("userStats", JSON.stringify(h)));
+        isRandom || (h.push(f),
+        localStorage.setItem("userStats", JSON.stringify(h))));
     let g,
       y,
       v = f.guessList,
@@ -11893,7 +11893,7 @@ let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
             n(5, (f.hasFinished = !0), f),
             n(5, (f.gotCorrect = o), f),
             n(5, (f.score = v.length), f),
-            localStorage.setItem("userStats", JSON.stringify(h)),
+            (isRandom || localStorage.setItem("userStats", JSON.stringify(h))),
             i.resetAndPlay(),
             o ?
             (pe("wonGame", {
@@ -11926,7 +11926,7 @@ let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
               btn.textContent = "🎸 Play a Random Song";
               btn.classList.add("random-btn");
               btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;max-width:400px;margin-left:auto;margin-right:auto;";
-              btn.onclick = () => { window.location.href = window.location.pathname + "?random=true"; };
+              btn.onclick = () => { localStorage.setItem("randomMode", "true"); window.location.href = window.location.pathname + "?random=true&t=" + Date.now(); };
               const target = document.querySelector(".modal") || document.querySelector("main") || document.body;
               target.appendChild(btn);
             }, 500));
