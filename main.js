@@ -11774,11 +11774,12 @@ let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
     null == localStorage.getItem("userStats") ?
       ((h = []), localStorage.setItem("userStats", JSON.stringify(h))) :
       (h = JSON.parse(localStorage.getItem("userStats"))),
-      (f = isRandom ? undefined : h.find((e) => e.id === l.id)),
+      (f = h.find((e) => e.id === l.id)),
       void 0 === f &&
       ((f = l),
         isRandom || (h.push(f),
         localStorage.setItem("userStats", JSON.stringify(h))));
+      isRandom && (f = l);
     let g,
       y,
       v = f.guessList,
