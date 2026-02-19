@@ -9197,7 +9197,7 @@ function Nt(t) {
      "Bruce Springsteen - Chasin’ Wild Horses",
      "Bruce Springsteen - Cautious Man",
      "Bruce Springsteen - My Love Will Not Let You Down",
-     "Bruce Springsteen - Racing in the Street (’78 version)",
+     "Bruce Springsteen - Racing in the Street (’78 version)",
      "Bruce Springsteen - Happy",
      "Bruce Springsteen - When You’re Alone",
      "Bruce Springsteen - Rendezvous",
@@ -9931,7 +9931,7 @@ function Nt(t) {
           },
           {
             url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
+            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
@@ -11734,6 +11734,10 @@ function Nt(t) {
     let r, s, i, o;
     u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
 const isRandom = new URLSearchParams(window.location.search).get("random") === "true";
+if (!isRandom && localStorage.getItem("userStats_daily_backup")) {
+  localStorage.setItem("userStats", localStorage.getItem("userStats_daily_backup"));
+  localStorage.removeItem("userStats_daily_backup");
+}
 let _songList = On.subscribe ? (() => { let v; On.subscribe(e => v = e)(); return v; })() : s;
 let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate),
   l = {
@@ -11928,7 +11932,15 @@ let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate
               btn.textContent = "🎸 Play a Random Song";
               btn.classList.add("random-btn");
               btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;max-width:400px;margin-left:auto;margin-right:auto;";
-              btn.onclick = () => { localStorage.setItem("randomMode", "true"); window.location.href = window.location.pathname + "?random=true&t=" + Date.now(); };
+              btn.onclick = () => {
+                try {
+                  const stats = JSON.parse(localStorage.getItem("userStats") || "[]");
+                  const backup = JSON.stringify(stats);
+                  localStorage.setItem("userStats_daily_backup", backup);
+                  localStorage.setItem("userStats", "[]");
+                } catch(e) {}
+                window.location.href = window.location.pathname + "?random=true&t=" + Date.now();
+              };
               const target = document.querySelector(".modal") || document.querySelector("main") || document.body;
               target.appendChild(btn);
             }, 500));
