@@ -11734,10 +11734,11 @@ function Nt(t) {
     let r, s, i, o;
     u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
 const isRandom = new URLSearchParams(window.location.search).get("random") === "true";
-let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
+let _songList = On.subscribe ? (() => { let v; On.subscribe(e => v = e)(); return v; })() : s;
+let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate),
   l = {
-    url: s[a].url,
-    correctAnswer: s[a].answer,
+    url: (isRandom ? _songList : s)[a].url,
+    correctAnswer: (isRandom ? _songList : s)[a].answer,
     id: a,
     guessList: [],
     hasFinished: !1,
