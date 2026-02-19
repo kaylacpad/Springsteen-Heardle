@@ -11733,15 +11733,17 @@ function Nt(t) {
   function jn(e, t, n) {
     let r, s, i, o;
     u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
-    let a = x(Vt.startDate),
-      l = {
-        url: s[a].url,
-        correctAnswer: s[a].answer,
-        id: a,
-        guessList: [],
-        hasFinished: !1,
-        hasStarted: !1,
-      };
+const isRandom = new URLSearchParams(window.location.search).get("random") === "true";
+let a = isRandom ? Math.floor(Math.random() * s.length) : x(Vt.startDate),
+  l = {
+    url: s[a].url,
+    correctAnswer: s[a].answer,
+    id: a,
+    guessList: [],
+    hasFinished: !1,
+    hasStarted: !1,
+    isRandom: isRandom,
+  };
     // console.log("a", l);
     var c, d;
     void 0 !== document.hidden ?
@@ -11918,6 +11920,29 @@ function Nt(t) {
             pe("gameStats#" + l.id, {
               name: v,
             }));
+        pe("endGame" + l.id + "in" + v.length, {
+  name: "#" + v.length,
+}),
+pe("endGame", {
+  name: "endGame",
+}),
+pe("endGame#" + l.id, {
+  name: "endGame",
+}),
+pe("gameStats#" + l.id, {
+  name: v,
+}),
+setTimeout(() => {
+  const btn = document.createElement("button");
+  btn.textContent = "🎸 Play a Random Song";
+  btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;";
+  btn.onclick = () => { window.location.href = window.location.pathname + "?random=true"; };
+  const modal = document.querySelector(".modal");
+  if (modal && !modal.querySelector(".random-btn")) {
+    btn.classList.add("random-btn");
+    modal.appendChild(btn);
+  }
+}, 500),
       },
       function(e) {
         _(e.detail.name, e.detail.title, e.detail.hasFrame);
