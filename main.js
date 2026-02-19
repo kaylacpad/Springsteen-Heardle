@@ -796,7 +796,7 @@ Q(a.$$.fragment),
 
 
   const img = document.createElement("img");
-  img.src = "https://cdn.glitch.global/ca7ad002-6962-46b2-b920-fe1e695a183e/Springsteen.png?v=1749708582670";
+  img.src = "https://images.squarespace-cdn.com/content/v1/62dc43e419bfa717fc15773f/ac7f3b99-0141-44e8-a2a7-8b99fc52db47/Springsteen+Heardle.jpg?format=1500w";
   img.alt = "Springsteen Heardle";
   img.style.maxWidth = "300px";
   img.style.width = "100%";
