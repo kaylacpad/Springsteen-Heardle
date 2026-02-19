@@ -4282,7 +4282,7 @@ function Nt(t) {
                 localStorage.setItem("userStats_daily_backup", JSON.stringify(stats));
                 localStorage.setItem("userStats", "[]");
               } catch(err) {}
-              window.location.href = window.location.pathname + "?random=true&t=" + Date.now();
+              window.location.href = "/?random=true&t=" + Date.now();
             }),
             g(e, h, y),
             g(e, f, y),
@@ -9212,7 +9212,7 @@ function Nt(t) {
      "Bruce Springsteen - Chasin’ Wild Horses",
      "Bruce Springsteen - Cautious Man",
      "Bruce Springsteen - My Love Will Not Let You Down",
-     "Bruce Springsteen - Racing in the Street (’78 version)",
+     "Bruce Springsteen - Racing in the Street (’78 version)",
      "Bruce Springsteen - Happy",
      "Bruce Springsteen - When You’re Alone",
      "Bruce Springsteen - Rendezvous",
@@ -9946,7 +9946,7 @@ function Nt(t) {
           },
           {
             url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
+            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
           },
           {
             url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
