@@ -796,7 +796,7 @@ Q(a.$$.fragment),
 
 
   const img = document.createElement("img");
-  img.src = "https://raw.githubusercontent.com/kaylacpad/Springsteen-Heardle/main/Springsteen.png";
+  img.src = "https://cdn.glitch.global/ca7ad002-6962-46b2-b920-fe1e695a183e/Springsteen.png?v=1749708582670";
   img.alt = "Springsteen Heardle";
   img.style.maxWidth = "300px";
   img.style.width = "100%";
@@ -4195,6 +4195,7 @@ function Nt(t) {
       C,
       O,
       P,
+      randomBtn,
       A = Jt[e[3]] + "",
       L = Array(e[1].maxAttempts),
       N = [];
@@ -4233,6 +4234,9 @@ function Nt(t) {
             (c = w("div")),
             Q(d.$$.fragment),
             (h = x()),
+            (randomBtn = w("button")),
+            (randomBtn.textContent = "🎸 Play a Random Song"),
+            M(randomBtn, "style", "margin-top:12px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;"),
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
@@ -4271,6 +4275,15 @@ function Nt(t) {
             p(t, u),
             p(t, c),
             ee(d, c, null),
+            p(c, randomBtn),
+            (randomBtn.onclick = function() {
+              try {
+                const stats = JSON.parse(localStorage.getItem("userStats") || "[]");
+                localStorage.setItem("userStats_daily_backup", JSON.stringify(stats));
+                localStorage.setItem("userStats", "[]");
+              } catch(err) {}
+              window.location.href = window.location.pathname + "?random=true&t=" + Date.now();
+            }),
             g(e, h, y),
             g(e, f, y),
             p(f, m),
@@ -4327,6 +4340,7 @@ function Nt(t) {
             W.d(),
             R && R.d(),
             te(d),
+            e && y(randomBtn),
             e && y(h),
             e && y(f),
             te(S),
@@ -4892,6 +4906,7 @@ function Nt(t) {
       C,
       O,
       P,
+      randomBtn,
       A,
       L,
       N,
@@ -11738,17 +11753,16 @@ if (!isRandom && localStorage.getItem("userStats_daily_backup")) {
   localStorage.setItem("userStats", localStorage.getItem("userStats_daily_backup"));
   localStorage.removeItem("userStats_daily_backup");
 }
-let _songList = On.subscribe ? (() => { let v; On.subscribe(e => v = e)(); return v; })() : s;
-let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate),
-  l = {
-    url: (isRandom ? _songList : s)[a].url,
-    correctAnswer: (isRandom ? _songList : s)[a].answer,
-    id: a,
-    guessList: [],
-    hasFinished: !1,
-    hasStarted: !1,
-    isRandom: isRandom,
-  };
+    let _songs = (() => { let v; On.subscribe(e => v = e)(); return v; })();
+    let a = isRandom ? Math.floor(Math.random() * _songs.length) : x(Vt.startDate),
+      l = {
+        url: _songs[a].url,
+        correctAnswer: _songs[a].answer,
+        id: isRandom ? "random_" + a : a,
+        guessList: [],
+        hasFinished: !1,
+        hasStarted: !1,
+      };
     // console.log("a", l);
     var c, d;
     void 0 !== document.hidden ?
@@ -11784,7 +11798,6 @@ let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate
       ((f = l),
         isRandom || (h.push(f),
         localStorage.setItem("userStats", JSON.stringify(h))));
-      isRandom && (f = l);
     let g,
       y,
       v = f.guessList,
@@ -11925,25 +11938,7 @@ let a = isRandom ? Math.floor(Math.random() * _songList.length) : x(Vt.startDate
             }),
             pe("gameStats#" + l.id, {
               name: v,
-            }),
-            setTimeout(() => {
-              if (document.querySelector(".random-btn")) return;
-              const btn = document.createElement("button");
-              btn.textContent = "🎸 Play a Random Song";
-              btn.classList.add("random-btn");
-              btn.style.cssText = "margin-top:16px;padding:10px 20px;background:#c0392b;color:white;border:none;border-radius:6px;font-size:1rem;cursor:pointer;display:block;width:100%;max-width:400px;margin-left:auto;margin-right:auto;";
-              btn.onclick = () => {
-                try {
-                  const stats = JSON.parse(localStorage.getItem("userStats") || "[]");
-                  const backup = JSON.stringify(stats);
-                  localStorage.setItem("userStats_daily_backup", backup);
-                  localStorage.setItem("userStats", "[]");
-                } catch(e) {}
-                window.location.href = window.location.pathname + "?random=true&t=" + Date.now();
-              };
-              const target = document.querySelector(".modal") || document.querySelector("main") || document.body;
-              target.appendChild(btn);
-            }, 500));
+            }));
       },
       function(e) {
         _(e.detail.name, e.detail.title, e.detail.hasFrame);
