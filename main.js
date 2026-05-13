@@ -4110,7 +4110,7 @@ function Nt(t) {
       attemptInterval: 1e3,
       attemptIntervalAlt: [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
       maxAttempts: 6,
-      startDate: "2025-03-13"
+      startDate: "2026-05-13"
     },
     Jt = ["Looks like you got Lost in the Flood.", "This one was made For You.", "You took a Leap of Faith with that one.", "You're The One!", "You're on Fire!", "In this town full of losers, you're pulling outta here a winner!", "You were Countin' On a Miracle today."];
 
@@ -9111,2139 +9111,2139 @@ function Nt(t) {
     })();
   });
   const Cn = ue([
-     "Bruce Springsteen - Straight Time",
-     "Bruce Springsteen - I Wish It Would Rain",
-     "Bruce Springsteen - Bishop Danced",
-     "Bruce Springsteen - You’ll Be Comin’ Down",
-     "Bruce Springsteen - Rocky Ground",
-     "Bruce Springsteen - The Fuse",
-     "Bruce Springsteen - The Ties That Bind",
-     "Bruce Springsteen - Magic",
-     "Bruce Springsteen - Reno",
-     "Bruce Springsteen - Leap of Faith",
-     "Bruce Springsteen - Two Hearts",
-     "Bruce Springsteen - I’m Goin’ Down",
-     "Bruce Springsteen - Working on a Dream",
-     "Bruce Springsteen - Pink Cadillac",
-     "Bruce Springsteen - Ain’t Good Enough For You",
-     "Bruce Springsteen - Valentine’s Day",
-     "Bruce Springsteen - Cover Me",
-     "Bruce Springsteen - Mary Lou",
-     "Bruce Springsteen - Surprise, Surprise",
-     "Bruce Springsteen - Frankie Fell In Love",
-     "Bruce Springsteen - The Promise",
-     "Bruce Springsteen - Galveston Bay",
-     "REMOVED SONG",
-     "Bruce Springsteen - For You",
-     "Bruce Springsteen - You Can Look (But You Better Not Touch)",
-     "Bruce Springsteen - Life Itself",
-     "Bruce Springsteen - Hello Sunshine",
-     "Bruce Springsteen - Worlds Apart",
-     "Bruce Springsteen - Spare Parts",
-     "Bruce Springsteen - High Hopes",
-     "Bruce Springsteen - Linda Let Me Be the One",
-     "Bruce Springsteen - 7 Rooms Of Gloom",
-     "Bruce Springsteen - Thundercrack",
-     "Bruce Springsteen - My Hometown",
-     "Bruce Springsteen - My Beautiful Reward",
-     "Bruce Springsteen - Terry's Song",
-     "Bruce Springsteen - The Angel",
-     "Bruce Springsteen - Goin’ Cali",
-     "Bruce Springsteen - Better Days",
-     "Bruce Springsteen - Livin’ in the Future",
-     "Bruce Springsteen - Outside Looking In",
-     "Bruce Springsteen - The Rising",
-     "Bruce Springsteen - Bring on the Night",
-     "Bruce Springsteen - My Lover Man",
-     "Bruce Springsteen - Secret Garden",
-     "Bruce Springsteen - The Hitter",
-     "Bruce Springsteen - Meeting Across The River",
-     "Bruce Springsteen - Long Walk Home",
-     "Bruce Springsteen - Growin' Up",
-     "Bruce Springsteen - Roll of the Dice",
-     "Bruce Springsteen - This Depression",
-     "Bruce Springsteen - If I Should Fall Behind",
-     "Bruce Springsteen - Someday (We’ll Be Together)",
-     "Bruce Springsteen - Jessie James",
-     "Bruce Springsteen - Adam Raised a Cain",
-     "Bruce Springsteen - This Hard Land",
-     "Bruce Springsteen - Give the Girl a Kiss",
-     "Bruce Springsteen - Good Eye",
-     "Bruce Springsteen - Only the Strong Survive",
-     "Bruce Springsteen - Sherry Darling",
-     "Bruce Springsteen - When the Lights Go Out",
-     "Bruce Springsteen - Gotta Get That Feeling",
-     "Bruce Springsteen - Two Faces",
-     "Bruce Springsteen - Mary Queen of Arkansas",
-     "Bruce Springsteen - My Lucky Day",
-     "Bruce Springsteen - Long Time Comin’",
-     "Bruce Springsteen - Sundown",
-     "Bruce Springsteen - Highway 29",
-     "Bruce Springsteen - Come On (Let’s Go Tonight)",
-     "Bruce Springsteen - The Wish",
-     "Bruce Springsteen - Wrecking Ball",
-     "Bruce Springsteen - The Honeymooners",
-     "Bruce Springsteen - Lonesome Day",
-     "Bruce Springsteen - Hey, Western Union Man",
-     "Bruce Springsteen - Any Other Way",
-     "Bruce Springsteen - Lion’s Den",
-     "Bruce Springsteen - Take ‘Em As They Come",
-     "Bruce Springsteen - The Long Goodbye",
-     "Bruce Springsteen - The Price You Pay",
-     "Bruce Springsteen - Seven Angels",
-     "Bruce Springsteen - Janey Needs a Shooter",
-     "Bruce Springsteen - We Shall Overcome",
-     "Bruce Springsteen - Bobby Jean",
-     "Bruce Springsteen - Dry Lightning",
-     "Bruce Springsteen - Badlands",
-     "Bruce Springsteen - Walk Like a Man",
-     "Bruce Springsteen - Stolen Car (Alternate Version)",
-     "Bruce Springsteen - Sleepy Joe’s Cafe",
-     "Bruce Springsteen - Nothing Man",
-     "Bruce Springsteen - I’m a Rocker",
-     "Bruce Springsteen - Santa Ana",
-     "Bruce Springsteen - Girls in Their Summer Clothes",
-     "Bruce Springsteen - Sad Eyes",
-     "Bruce Springsteen - Man’s Job",
-     "Bruce Springsteen - Rockaway the Days",
-     "Bruce Springsteen - All I’m Thinkin’ About",
-     "Bruce Springsteen - Nebraska",
-     "Bruce Springsteen - The Wrestler",
-     "Bruce Springsteen - Chasin’ Wild Horses",
-     "Bruce Springsteen - Cautious Man",
-     "Bruce Springsteen - My Love Will Not Let You Down",
-     "Bruce Springsteen - Racing in the Street (’78 version)",
-     "Bruce Springsteen - Happy",
-     "Bruce Springsteen - When You’re Alone",
-     "Bruce Springsteen - Rendezvous",
-     "Bruce Springsteen - No Surrender",
-     "Bruce Springsteen - Wreck on the Highway",
-     "Bruce Springsteen - The New Timer",
-     "Bruce Springsteen - Cadillac Ranch",
-     "Bruce Springsteen - The Sun Ain't Gonna Shine Anymore",
-     "Bruce Springsteen - Brothers Under the Bridge ’83",
-     "Bruce Springsteen - I Forgot To Be Your Lover - Bruce Springsteen feat. Sam Moore",
-     "Bruce Springsteen - Fade Away",
-     "Bruce Springsteen - 4th of July, Asbury Park (Sandy)",
-     "Bruce Springsteen - Janey Don’t You Lose Heart (Somewhere North of Nashville)",
-     "Bruce Springsteen - Queen of the Supermarket",
-     "Bruce Springsteen - One False Move",
-     "Bruce Springsteen - The Ghost of Tom Joad",
-     "Bruce Springsteen - Car Wash",
-     "Bruce Springsteen - Perfect World",
-     "Bruce Springsteen - Trouble in Paradise",
-     "Bruce Springsteen - Late in the Evening",
-     "Bruce Springsteen - We Take Care of Our Own",
-     "Bruce Springsteen - Independence Day",
-     "Bruce Springsteen - Rainmaker",
-     "Bruce Springsteen - The Last Carnival",
-     "Bruce Springsteen - I’m Not Sleeping",
-     "Bruce Springsteen - Farewell Party",
-     "Bruce Springsteen - Be True",
-     "Bruce Springsteen - Hearts of Stone",
-     "Bruce Springsteen - Blind Man",
-     "Bruce Springsteen - Mary’s Place",
-     "Bruce Springsteen - It's Hard to Be a Saint in the City",
-     "Bruce Springsteen - State Trooper",
-     "Bruce Springsteen - Sinaloa Cowboys",
-     "Bruce Springsteen - Drive All Night",
-     "Bruce Springsteen - Fire",
-     "Bruce Springsteen - Cynthia",
-     "Bruce Springsteen - I’ll Work for Your Love",
-     "Bruce Springsteen - Tenth Avenue Freeze Out",
-     "Bruce Springsteen - Eyes On The Prize",
-     "Bruce Springsteen - You’re Missing",
-     "Bruce Springsteen - Local Hero",
-     "Bruce Springsteen - My Master's Hand",
-     "Bruce Springsteen - Out in the Street",
-     "Bruce Springsteen - Gloria’s Eyes",
-     "Bruce Springsteen - Tougher Than the Rest",
-     "Bruce Springsteen - Down In The Hole",
-     "Bruce Springsteen - Inyo",
-     "Bruce Springsteen - You’re Gonna Miss Me When I’m Gone",
-     "Bruce Springsteen - Loose Change",
-     "Bruce Springsteen - With Every Wish",
-     "Bruce Springsteen - Dinner at Eight",
-     "Bruce Springsteen - So Young and in Love",
-     "Bruce Springsteen - 57 Channels (And Nothin’ On)",
-     "Bruce Springsteen - Radio Nowhere",
-     "Bruce Springsteen - Waiting on the End of the World",
-     "Bruce Springsteen - Last Man Standing",
-     "Bruce Springsteen - A Night with the Jersey Devil",
-     "Bruce Springsteen - Brothers Under the Bridge",
-     "Bruce Springsteen - We Fell Down",
-     "Bruce Springsteen - Part Man, Part Monkey",
-     "Bruce Springsteen - Tiger Rose",
-     "Bruce Springsteen - American Skin (41 Shots)",
-     "Bruce Springsteen - Lonely Town",
-     "Bruce Springsteen - Seven Tears",
-     "Bruce Springsteen - Detail Man",
-     "Bruce Springsteen - Born To Run",
-     "Bruce Springsteen - Jesus Was an Only Son",
-     "Bruce Springsteen - Dream Baby Dream",
-     "Bruce Springsteen - Jungleland",
-     "Bruce Springsteen - Tunnel of Love",
-     "Bruce Springsteen - Gypsy Biker",
-     "Bruce Springsteen - What Becomes of the Brokenhearted",
-     "Bruce Springsteen - If I Was the Priest",
-     "Bruce Springsteen - Between Heaven and Earth",
-     "Bruce Springsteen - Man At The Top",
-     "Bruce Springsteen - Real Man",
-     "Bruce Springsteen - Ramrod",
-     "Bruce Springsteen - Roulette",
-     "Bruce Springsteen - Jim Deer",
-     "Bruce Springsteen - I’ll Stand By You",
-     "Bruce Springsteen - Zero and Blind Terry",
-     "Bruce Springsteen - Brilliant Disguise",
-     "Bruce Springsteen - The Little Things (My Baby Does)",
-     "Bruce Springsteen - The Little Things",
-     "Bruce Springsteen - Devil’s Arcade",
-     "Bruce Springsteen - Factory",
-     "Bruce Springsteen - Nightshift",
-     "Bruce Springsteen - All That Heaven Will Allow",
-     "Bruce Springsteen - I’m on Fire",
-     "Bruce Springsteen - The Power of Prayer",
-     "Bruce Springsteen - Sugarland",
-     "Bruce Springsteen - Living Proof",
-     "Bruce Springsteen - Fugitive's Dream (Ballad)",
-     "Bruce Springsteen - Let’s Be Friends (Skin to Skin)",
-     "Bruce Springsteen - Froggie Went A-Courtin’",
-     "Bruce Springsteen - Where You Going, Where You From",
-     "Bruce Springsteen - Johnny 99",
-     "Bruce Springsteen - A Good Man Is Hard to Find (Pittsburgh)",
-     "Bruce Springsteen - One Love",
-     "Bruce Springsteen - Follow That Dream",
-     "Bruce Springsteen - Johnny Bye-Bye",
-     "Bruce Springsteen - Crush on You",
-     "Bruce Springsteen - Balboa Park",
-     "Bruce Springsteen - Mrs. McGrath",
-     "Bruce Springsteen - Living on the Edge of the World",
-     "Bruce Springsteen - Blue Highway",
-     "Bruce Springsteen - Stand on It (Tracks)",
-     "Bruce Springsteen - Lost in the Flood",
-     "Bruce Springsteen - Wrong Side of the Street",
-     "Bruce Springsteen - Outlaw Pete",
-     "Bruce Springsteen - What Love Can Do",
-     "Bruce Springsteen - Spanish Eyes",
-     "Bruce Springsteen - Leah",
-     "Bruce Springsteen - Does This Bus Stop At 82nd Street? - Demo Version - 1972",
-     "Bruce Springsteen - Further On (Up the Road)",
-     "Bruce Springsteen - When She Was My Girl",
-     "Bruce Springsteen - Erie Canal",
-     "Bruce Springsteen - Spirit in the Night",
-     "Bruce Springsteen - Blood Brothers",
-     "Bruce Springsteen - Book of Dreams",
-     "Bruce Springsteen - Repo Man",
-     "Bruce Springsteen - You Lifted Me Up",
-     "Bruce Springsteen - The Aztec Dance",
-     "Bruce Springsteen - Blinded by the Light",
-     "Bruce Springsteen - This Is Your Sword",
-     "Bruce Springsteen - Silver Palomino",
-     "Bruce Springsteen - Where the Bands Are",
-     "Bruce Springsteen - Don’t Look Back",
-     "Bruce Springsteen - Atlantic City",
-     "Bruce Springsteen - Gave It a Name",
-     "Bruce Springsteen - Into the Fire",
-     "Bruce Springsteen - New York City Serenade",
-     "Bruce Springsteen - Jacob’s Ladder",
-     "Bruce Springsteen - We Are Alive",
-     "Bruce Springsteen - My Master's Hand (Theme)",
-     "Bruce Springsteen - Darkness on the Edge of Town",
-     "Bruce Springsteen - Open All Night",
-     "Bruce Springsteen - Black Mountain Ballad",
-     "Bruce Springsteen - The Western Sea (Instrumental)",
-     "Bruce Springsteen - Night",
-     "Bruce Springsteen - I Wanna Be With You",
-     "Bruce Springsteen - Incident on 57th Street",
-     "Bruce Springsteen - God Sent You",
-     "Bruce Springsteen - September Kisses",
-     "Bruce Springsteen - Highway Patrolman",
-     "Bruce Springsteen - Delivery Man",
-     "Bruce Springsteen - There Goes My Miracle",
-     "Bruce Springsteen - A Prayer by the River (Instrumental)",
-     "Bruce Springsteen - My Best Was Never Good Enough",
-     "Bruce Springsteen - Human Touch",
-     "Bruce Springsteen - Maybe I Don't Know You",
-     "Bruce Springsteen - TV Movie",
-     "Bruce Springsteen - Save My Love",
-     "Bruce Springsteen - Lucky Town",
-     "Bruce Springsteen - Don't Back Down On Our Love",
-     "Bruce Springsteen - Across the Border",
-     "Bruce Springsteen - The Promised Land",
-     "Bruce Springsteen - Shut Out The Light (Tracks)",
-     "Bruce Springsteen - Something In The Night",
-     "Bruce Springsteen - Kitty's Back",
-     "Bruce Springsteen - Dancing in the Dark",
-     "Bruce Springsteen - Old Dan Tucker",
-     "Bruce Springsteen - Blind Spot",
-     "Bruce Springsteen - My City of Ruins",
-     "Bruce Springsteen - The Line",
-     "Bruce Springsteen - Adelita",
-     "Bruce Springsteen - Racing in the Street",
-     "Bruce Springsteen - Ciudad Juarez",
-     "Bruce Springsteen - Back in Your Arms",
-     "Bruce Springsteen - Ricky Wants a Man of Her Own",
-     "Bruce Springsteen - Stand On It (Somewhere North of Nashville)",
-     "Bruce Springsteen - Over the Rise",
-     "Bruce Springsteen - Ain’t Got You",
-     "Bruce Springsteen - Shackled and Drawn",
-     "Bruce Springsteen - The Klansman",
-     "Bruce Springsteen - The River",
-     "Bruce Springsteen - Wages of Sin",
-     "Bruce Springsteen - Jackson Cage",
-     "Bruce Springsteen - Waitin’ on a Sunny Day",
-     "Bruce Springsteen - Moonlight Motel",
-     "Bruce Springsteen - Land of Hope and Dreams",
-     "Bruce Springsteen - Backstreets",
-     "Bruce Springsteen - Candy’s Boy",
-     "Bruce Springsteen - Ghosts",
-     "Bruce Springsteen - Santa Claus Is Comin' to Town",
-     "Bruce Springsteen - Talk to Me",
-     "Bruce Springsteen - One Way Street",
-     "Bruce Springsteen - Iceman",
-     "Bruce Springsteen - Pay Me My Money Down",
-     "Bruce Springsteen - Candy’s Room",
-     "Bruce Springsteen - Sunday Love",
-     "Bruce Springsteen - Born in the U.S.A.",
-     "Bruce Springsteen - Rosalita (Come Out Tonight)",
-     "Bruce Springsteen - Fugitive's Dream",
-     "Bruce Springsteen - Souls of the Departed",
-     "Bruce Springsteen - Hitch Hikin’",
-     "Bruce Springsteen - Idiot’s Delight",
-     "Bruce Springsteen - O, Mary, Don’t You Weep",
-     "Bruce Springsteen - All the Way Home",
-     "Bruce Springsteen - My Hometown (LA Garage Sessions '83)",
-     "Bruce Springsteen - Pony Boy",
-     "Bruce Springsteen - Something in the Well",
-     "Bruce Springsteen - Death to My Hometown",
-     "Bruce Springsteen - Hungry Heart",
-     "Bruce Springsteen - Harry’s Place",
-     "Bruce Springsteen - The Ghost of Tom Joad (Electric Version)",
-     "Bruce Springsteen - Twilight Hours",
-     "Bruce Springsteen - The Big Muddy",
-     "Bruce Springsteen - The Great Depression",
-     "Bruce Springsteen - Poor Side of Town",
-     "Bruce Springsteen - Silver Mountain",
-     "Bruce Springsteen - County Fair",
-     "Bruce Springsteen - Tucson Train",
-     "Bruce Springsteen - Our Lady of Monroe",
-     "Bruce Springsteen - Two of Us",
-     "Bruce Springsteen - Thunder Road",
-     "Bruce Springsteen - Point Blank",
-     "Bruce Springsteen - I Wanna Marry You",
-     "Bruce Springsteen - John Henry",
-     "Bruce Springsteen - Does This Bus Stop at 82nd Street?",
-     "Bruce Springsteen - Seaside Bar Song",
-     "Bruce Springsteen - Johnny Bye Bye (LA Garage Sessions '83)",
-     "Bruce Springsteen - Secret Garden (Streets of Philadelphia Sessions)",
-     "Bruce Springsteen - All God's Children",
-     "Bruce Springsteen - Two for the Road",
-     "Bruce Springsteen - It’s a Shame",
-     "Bruce Springsteen - Born in the U.S.A. - Demo Version (1982)",
-     "Bruce Springsteen - Lucky Man",
-     "Bruce Springsteen - Easy Money",
-     "Bruce Springsteen - Loose Ends",
-     "Bruce Springsteen - Tomorrow Never Knows",
-     "Bruce Springsteen - The Desert (Instrumental)",
-     "Bruce Springsteen - Stones",
-     "Bruce Springsteen - The Wall",
-     "Bruce Springsteen - Jack of All Trades",
-     "Bruce Springsteen - Mansion on the Hill",
-     "Bruce Springsteen - Growin' Up - Demo Version - 1972",
-     "Bruce Springsteen - Rain In The River",
-     "Bruce Springsteen - Someday We'll Be Together",
-     "Bruce Springsteen - Stolen Car",
-     "Bruce Springsteen - Shenandoah",
-     "Bruce Springsteen - Kingdom of Days",
-     "Bruce Springsteen - House of a Thousand Guitars",
-     "Bruce Springsteen - The E Street Shuffle",
-     "Bruce Springsteen - Frankie",
-     "Bruce Springsteen - Indian Town",
-     "Bruce Springsteen - Don't Play That Song",
-     "Bruce Springsteen - One Step Up",
-     "Bruce Springsteen - Richfield Whistle",
-     "Bruce Springsteen - Black Cowboys",
-     "Bruce Springsteen - The Lost Charro",
-     "Bruce Springsteen - Let Me Ride",
-     "Bruce Springsteen - It's Hard To Be A Saint In The City - Demo Version - 1972",
-     "Bruce Springsteen - You’ve Got It",
-     "Bruce Springsteen - Downbound Train",
-     "Bruce Springsteen - Somewhere North of Nashville (Western Stars)",
-     "Bruce Springsteen - Do I Love You (Indeed I Do)",
-     "Bruce Springsteen - Last to Die",
-     "Bruce Springsteen - Cutting Knife",
-     "Bruce Springsteen - Prove It All Night",
-     "Bruce Springsteen - Don't Back Down",
-     "Bruce Springsteen - Follow The Sun",
-     "Bruce Springsteen - Somewhere North of Nashville (Tracks II)",
-     "Bruce Springsteen - Matamoros Banks",
-     "Bruce Springsteen - Working on the Highway",
-     "Bruce Springsteen - One Minute You’re Here",
-     "Bruce Springsteen - Countin’ on a Miracle",
-     "Bruce Springsteen - Burnin’ Train",
-     "Bruce Springsteen - Leavin’ Train",
-     "Bruce Springsteen - When I Build My Beautiful House",
-     "Bruce Springsteen - Streets of Philadelphia",
-     "Bruce Springsteen - The Brokenhearted",
-     "Bruce Springsteen - Restless Nights",
-     "Bruce Springsteen - Maria’s Bed",
-     "Bruce Springsteen - Soul Days - Bruce Springsteen feat. Sam Moore",
-     "Bruce Springsteen - This Life",
-     "Bruce Springsteen - Letter to You",
-     "Bruce Springsteen - Soul Driver",
-     "Bruce Springsteen - Under A Big Sky",
-     "Bruce Springsteen - Another You",
-     "Bruce Springsteen - Another Thin Line",
-     "Bruce Springsteen - Hunter Of Invisible Game",
-     "Bruce Springsteen - If I Could Only Be Your Lover",
-     "Bruce Springsteen - My Father’s House",
-     "Bruce Springsteen - Mary Queen of Arkansas - Demo Version - 1972",
-     "Bruce Springsteen - El Jardinero (Upon the Death of Ramona)",
-     "Bruce Springsteen - Just Like Fire Would",
-     "Bruce Springsteen - Sunliner",
-     "Bruce Springsteen - When You Need Me",
-     "Bruce Springsteen - Western Stars",
-     "Bruce Springsteen - One Beautiful Morning",
-     "Bruce Springsteen - High Sierra",
-     "Bruce Springsteen - Little Girl Like You",
-     "Bruce Springsteen - Darlington County",
-     "Bruce Springsteen - Paradise",
-     "Bruce Springsteen - Song For Orphans",
-     "Bruce Springsteen - Unsatisfied Heart",
-     "Bruce Springsteen - Reason to Believe",
-     "Bruce Springsteen - My Oklahoma Home",
-     "Bruce Springsteen - Streets of Fire",
-     "Bruce Springsteen - Devils & Dust",
-     "Bruce Springsteen - The Wayfarer",
-     "Bruce Springsteen - Faithless",
-     "Bruce Springsteen - Youngstown",
-     "Bruce Springsteen - Wild Billy's Circus Story",
-     "Bruce Springsteen - I’ll See You in My Dreams",
-     "Bruce Springsteen - Shut Out the Light (LA Garage Sessions '83)",
-     "Bruce Springsteen - Goin' to California",
-     "Bruce Springsteen - I Wish I Were Blind",
-     "Bruce Springsteen - Breakaway",
-     "Bruce Springsteen - Turn Back the Hands of Time",
-     "Bruce Springsteen - Your Own Worst Enemy",
-     "Bruce Springsteen - All or Nothin’ at All",
-     "Bruce Springsteen - Used Cars",
-     "Bruce Springsteen - She’s The One",
-     "Bruce Springsteen - Glory Days",
-     "Bruce Springsteen - Murder Incorporated",
-     "Bruce Springsteen - Heaven’s Wall",
-     "Bruce Springsteen - Drive Fast (The Stuntman)",
-     "Bruce Springsteen - Cross My Heart",
-     "Bruce Springsteen - Dollhouse",
-     "Bruce Springsteen - Empty Sky",
-     "Bruce Springsteen - Janey, Don’t You Lose Heart",
-     "Bruce Springsteen - Because the Night",
+"Bruce Springsteen - Your Own Worst Enemy",
+"Bruce Springsteen - Gloria’s Eyes",
+"Bruce Springsteen - Save My Love",
+"Bruce Springsteen - Part Man, Part Monkey",
+"Bruce Springsteen - Stolen Car (Alternate Version)",
+"Bruce Springsteen - Just Like Fire Would",
+"Bruce Springsteen - I’m Goin’ Down",
+"Bruce Springsteen - Twilight Hours",
+"Bruce Springsteen - Black Cowboys",
+"Bruce Springsteen - Stolen Car",
+"Bruce Springsteen - The Wish",
+"Bruce Springsteen - Give the Girl a Kiss",
+"Bruce Springsteen - Old Dan Tucker",
+"Bruce Springsteen - Eyes On The Prize",
+"Bruce Springsteen - Seven Tears",
+"Bruce Springsteen - Linda Let Me Be the One",
+"Bruce Springsteen - Secret Garden",
+"Bruce Springsteen - Paradise",
+"Bruce Springsteen - Born in the U.S.A.",
+"Bruce Springsteen - I’m a Rocker",
+"Bruce Springsteen - Bishop Danced",
+"Bruce Springsteen - I’ll Stand By You",
+"Bruce Springsteen - This Life",
+"Bruce Springsteen - Brothers Under the Bridge",
+"Bruce Springsteen - Blind Man",
+"Bruce Springsteen - Harry’s Place",
+"Bruce Springsteen - The Line",
+"Bruce Springsteen - There Goes My Miracle",
+"Bruce Springsteen - We Fell Down",
+"Bruce Springsteen - Late in the Evening",
+"Bruce Springsteen - What Love Can Do",
+"Bruce Springsteen - Downbound Train",
+"Bruce Springsteen - Another You",
+"Bruce Springsteen - Night",
+"Bruce Springsteen - Dinner at Eight",
+"Bruce Springsteen - Radio Nowhere",
+"Bruce Springsteen - Adelita",
+"Bruce Springsteen - When the Lights Go Out",
+"Bruce Springsteen - Living Proof",
+"Bruce Springsteen - The New Timer",
+"Bruce Springsteen - Used Cars",
+"Bruce Springsteen - Last Man Standing",
+"Bruce Springsteen - Over the Rise",
+"Bruce Springsteen - Further On (Up the Road)",
+"Bruce Springsteen - Easy Money",
+"Bruce Springsteen - Bring on the Night",
+"Bruce Springsteen - Outside Looking In",
+"Bruce Springsteen - Racing in the Street",
+"Bruce Springsteen - Meeting Across The River",
+"Bruce Springsteen - Tunnel of Love",
+"Bruce Springsteen - It’s a Shame",
+"Bruce Springsteen - The Wall",
+"Bruce Springsteen - Silver Palomino",
+"Bruce Springsteen - Sinaloa Cowboys",
+"Bruce Springsteen - If I Was the Priest",
+"Bruce Springsteen - Rocky Ground",
+"Bruce Springsteen - Balboa Park",
+"Bruce Springsteen - The Brokenhearted",
+"Bruce Springsteen - Sunday Love",
+"Bruce Springsteen - Jack of All Trades",
+"Bruce Springsteen - Black Mountain Ballad",
+"Bruce Springsteen - Jungleland",
+"Bruce Springsteen - Terry's Song",
+"Bruce Springsteen - I Wanna Be With You",
+"Bruce Springsteen - The Little Things",
+"Bruce Springsteen - I’ll See You in My Dreams",
+"Bruce Springsteen - Our Lady of Monroe",
+"Bruce Springsteen - Youngstown",
+"Bruce Springsteen - Take ‘Em As They Come",
+"Bruce Springsteen - Pay Me My Money Down",
+"Bruce Springsteen - Livin’ in the Future",
+"Bruce Springsteen - Outlaw Pete",
+"Bruce Springsteen - If I Should Fall Behind",
+"Bruce Springsteen - The Price You Pay",
+"Bruce Springsteen - Man’s Job",
+"Bruce Springsteen - My City of Ruins",
+"Bruce Springsteen - Worlds Apart",
+"Bruce Springsteen - Stand On It (Somewhere North of Nashville)",
+"Bruce Springsteen - Be True",
+"Bruce Springsteen - Highway 29",
+"Bruce Springsteen - Maria’s Bed",
+"Bruce Springsteen - Growin' Up - Demo Version - 1972",
+"Bruce Springsteen - Adam Raised a Cain",
+"Bruce Springsteen - Prove It All Night",
+"Bruce Springsteen - Repo Man",
+"Bruce Springsteen - September Kisses",
+"Bruce Springsteen - Brothers Under the Bridge ’83",
+"Bruce Springsteen - Frankie",
+"Bruce Springsteen - Thundercrack",
+"Bruce Springsteen - Hey, Western Union Man",
+"Bruce Springsteen - Land of Hope and Dreams",
+"Bruce Springsteen - Into the Fire",
+"Bruce Springsteen - Leah",
+"Bruce Springsteen - Lonely Town",
+"Bruce Springsteen - The Wrestler",
+"Bruce Springsteen - The Long Goodbye",
+"Bruce Springsteen - Iceman",
+"Bruce Springsteen - Out in the Street",
+"Bruce Springsteen - Two Hearts",
+"Bruce Springsteen - Sundown",
+"Bruce Springsteen - House of a Thousand Guitars",
+"Bruce Springsteen - A Prayer by the River (Instrumental)",
+"Bruce Springsteen - Mary’s Place",
+"Bruce Springsteen - Long Time Comin’",
+"Bruce Springsteen - Idiot’s Delight",
+"Bruce Springsteen - Loose Change",
+"Bruce Springsteen - The Ties That Bind",
+"Bruce Springsteen - Song For Orphans",
+"Bruce Springsteen - You’ve Got It",
+"Bruce Springsteen - Erie Canal",
+"Bruce Springsteen - Two of Us",
+"Bruce Springsteen - Wrecking Ball",
+"Bruce Springsteen - All I’m Thinkin’ About",
+"Bruce Springsteen - Lion’s Den",
+"Bruce Springsteen - Magic",
+"Bruce Springsteen - American Skin (41 Shots)",
+"Bruce Springsteen - Better Days",
+"Bruce Springsteen - Maybe I Don't Know You",
+"Bruce Springsteen - Turn Back the Hands of Time",
+"Bruce Springsteen - Follow That Dream",
+"Bruce Springsteen - Talk to Me",
+"Bruce Springsteen - My Best Was Never Good Enough",
+"Bruce Springsteen - 57 Channels (And Nothin’ On)",
+"Bruce Springsteen - Racing in the Street (’78 version)",
+"Bruce Springsteen - Rockaway the Days",
+"Bruce Springsteen - Independence Day",
+"Bruce Springsteen - Santa Ana",
+"Bruce Springsteen - Gave It a Name",
+"Bruce Springsteen - County Fair",
+"Bruce Springsteen - Somewhere North of Nashville (Western Stars)",
+"Bruce Springsteen - Jacob’s Ladder",
+"Bruce Springsteen - My Love Will Not Let You Down",
+"Bruce Springsteen - Dancing in the Dark",
+"Bruce Springsteen - Chasin’ Wild Horses",
+"Bruce Springsteen - Blue Highway",
+"Bruce Springsteen - Man At The Top",
+"Bruce Springsteen - Book of Dreams",
+"Bruce Springsteen - Delivery Man",
+"Bruce Springsteen - Rainmaker",
+"Bruce Springsteen - All That Heaven Will Allow",
+"Bruce Springsteen - Jim Deer",
+"Bruce Springsteen - Tucson Train",
+"Bruce Springsteen - Blind Spot",
+"Bruce Springsteen - Last to Die",
+"Bruce Springsteen - Western Stars",
+"Bruce Springsteen - This Is Your Sword",
+"Bruce Springsteen - Janey, Don’t You Lose Heart",
+"Bruce Springsteen - Spirit in the Night",
+"Bruce Springsteen - Streets of Philadelphia",
+"Bruce Springsteen - Janey Don’t You Lose Heart (Somewhere North of Nashville)",
+"Bruce Springsteen - Frankie Fell In Love",
+"Bruce Springsteen - One Love",
+"Bruce Springsteen - Perfect World",
+"Bruce Springsteen - The Power of Prayer",
+"Bruce Springsteen - Hitch Hikin’",
+"Bruce Springsteen - Another Thin Line",
+"Bruce Springsteen - Unsatisfied Heart",
+"Bruce Springsteen - Drive Fast (The Stuntman)",
+"Bruce Springsteen - Matamoros Banks",
+"Bruce Springsteen - Roulette",
+"Bruce Springsteen - Murder Incorporated",
+"Bruce Springsteen - Spanish Eyes",
+"Bruce Springsteen - Spare Parts",
+"Bruce Springsteen - Wrong Side of the Street",
+"Bruce Springsteen - Rendezvous",
+"Bruce Springsteen - A Good Man Is Hard to Find (Pittsburgh)",
+"Bruce Springsteen - Hello Sunshine",
+"Bruce Springsteen - Death to My Hometown",
+"Bruce Springsteen - Jesus Was an Only Son",
+"Bruce Springsteen - The Wayfarer",
+"Bruce Springsteen - It's Hard To Be A Saint In The City - Demo Version - 1972",
+"Bruce Springsteen - Wreck on the Highway",
+"Bruce Springsteen - Little Girl Like You",
+"Bruce Springsteen - Girls in Their Summer Clothes",
+"Bruce Springsteen - Hunter Of Invisible Game",
+"Bruce Springsteen - Open All Night",
+"Bruce Springsteen - Ramrod",
+"Bruce Springsteen - Don't Back Down",
+"Bruce Springsteen - Roll of the Dice",
+"Bruce Springsteen - No Surrender",
+"Bruce Springsteen - The River",
+"Bruce Springsteen - Mary Queen of Arkansas",
+"Bruce Springsteen - Stones",
+"Bruce Springsteen - Inyo",
+"Bruce Springsteen - Down In The Hole",
+"Bruce Springsteen - Does This Bus Stop at 82nd Street?",
+"Bruce Springsteen - Where the Bands Are",
+"Bruce Springsteen - Don’t Look Back",
+"Bruce Springsteen - Highway Patrolman",
+"Bruce Springsteen - Hungry Heart",
+"Bruce Springsteen - Poor Side of Town",
+"Bruce Springsteen - Gotta Get That Feeling",
+"Bruce Springsteen - It's Hard to Be a Saint in the City",
+"Bruce Springsteen - Johnny Bye-Bye",
+"Bruce Springsteen - Walk Like a Man",
+"Bruce Springsteen - Reno",
+"Bruce Springsteen - God Sent You",
+"Bruce Springsteen - Johnny Bye Bye (LA Garage Sessions '83)",
+"Bruce Springsteen - Goin' to California",
+"Bruce Springsteen - Point Blank",
+"Bruce Springsteen - The E Street Shuffle",
+"Bruce Springsteen - Surprise, Surprise",
+"Bruce Springsteen - Mansion on the Hill",
+"Bruce Springsteen - Fugitive's Dream",
+"Bruce Springsteen - Stand on It (Tracks)",
+"Bruce Springsteen - My Oklahoma Home",
+"Bruce Springsteen - Local Hero",
+"Bruce Springsteen - Wages of Sin",
+"Bruce Springsteen - Ghosts",
+"Bruce Springsteen - Sleepy Joe’s Cafe",
+"Bruce Springsteen - All God's Children",
+"Bruce Springsteen - The Promised Land",
+"Bruce Springsteen - Leavin’ Train",
+"Bruce Springsteen - 7 Rooms Of Gloom",
+"Bruce Springsteen - One False Move",
+"Bruce Springsteen - State Trooper",
+"Bruce Springsteen - My Hometown (LA Garage Sessions '83)",
+"Bruce Springsteen - Nebraska",
+"Bruce Springsteen - Loose Ends",
+"Bruce Springsteen - Gypsy Biker",
+"Bruce Springsteen - When You’re Alone",
+"Bruce Springsteen - If I Could Only Be Your Lover",
+"Bruce Springsteen - Brilliant Disguise",
+"Bruce Springsteen - Let Me Ride",
+"Bruce Springsteen - Soul Days - Bruce Springsteen feat. Sam Moore",
+"Bruce Springsteen - Don't Play That Song",
+"Bruce Springsteen - Burnin’ Train",
+"Bruce Springsteen - Shenandoah",
+"Bruce Springsteen - Ciudad Juarez",
+"Bruce Springsteen - Somewhere North of Nashville (Tracks II)",
+"Bruce Springsteen - Waiting on the End of the World",
+"Bruce Springsteen - The Aztec Dance",
+"Bruce Springsteen - Someday We'll Be Together",
+"Bruce Springsteen - Come On (Let’s Go Tonight)",
+"Bruce Springsteen - My Lover Man",
+"Bruce Springsteen - Dollhouse",
+"Bruce Springsteen - We Take Care of Our Own",
+"Bruce Springsteen - Dream Baby Dream",
+"Bruce Springsteen - Faithless",
+"Bruce Springsteen - I Wanna Marry You",
+"Bruce Springsteen - Where You Going, Where You From",
+"Bruce Springsteen - Moonlight Motel",
+"Bruce Springsteen - Reason to Believe",
+"Bruce Springsteen - Mary Lou",
+"Bruce Springsteen - Lost in the Flood",
+"Bruce Springsteen - The Last Carnival",
+"Bruce Springsteen - Nightshift",
+"Bruce Springsteen - Galveston Bay",
+"Bruce Springsteen - The Promise",
+"Bruce Springsteen - Incident on 57th Street",
+"Bruce Springsteen - Tougher Than the Rest",
+"Bruce Springsteen - Blinded by the Light",
+"Bruce Springsteen - Lucky Town",
+"Bruce Springsteen - Ain’t Good Enough For You",
+"Bruce Springsteen - Two Faces",
+"Bruce Springsteen - A Night with the Jersey Devil",
+"Bruce Springsteen - High Sierra",
+"Bruce Springsteen - Jackson Cage",
+"Bruce Springsteen - Leap of Faith",
+"Bruce Springsteen - Human Touch",
+"Bruce Springsteen - Detail Man",
+"Bruce Springsteen - Straight Time",
+"Bruce Springsteen - Dry Lightning",
+"Bruce Springsteen - Sugarland",
+"Bruce Springsteen - Rosalita (Come Out Tonight)",
+"Bruce Springsteen - Streets of Fire",
+"Bruce Springsteen - Back in Your Arms",
+"Bruce Springsteen - So Young and in Love",
+"Bruce Springsteen - This Hard Land",
+"Bruce Springsteen - Something In The Night",
+"Bruce Springsteen - Sad Eyes",
+"Bruce Springsteen - Across the Border",
+"Bruce Springsteen - The Ghost of Tom Joad (Electric Version)",
+"Bruce Springsteen - I Wish It Would Rain",
+"Bruce Springsteen - Richfield Whistle",
+"Bruce Springsteen - We Shall Overcome",
+"Bruce Springsteen - You Lifted Me Up",
+"Bruce Springsteen - Working on the Highway",
+"Bruce Springsteen - Because the Night",
+"Bruce Springsteen - Mary Queen of Arkansas - Demo Version - 1972",
+"Bruce Springsteen - Kingdom of Days",
+"Bruce Springsteen - When I Build My Beautiful House",
+"Bruce Springsteen - Sherry Darling",
+"Bruce Springsteen - The Fuse",
+"Bruce Springsteen - Candy’s Boy",
+"Bruce Springsteen - Hearts of Stone",
+"Bruce Springsteen - Ricky Wants a Man of Her Own",
+"Bruce Springsteen - The Western Sea (Instrumental)",
+"Bruce Springsteen - Froggie Went A-Courtin’",
+"Bruce Springsteen - Johnny 99",
+"Bruce Springsteen - My Hometown",
+"Bruce Springsteen - El Jardinero (Upon the Death of Ramona)",
+"Bruce Springsteen - When You Need Me",
+"Bruce Springsteen - Seven Angels",
+"Bruce Springsteen - Good Eye",
+"Bruce Springsteen - Life Itself",
+"Bruce Springsteen - Long Walk Home",
+"Bruce Springsteen - TV Movie",
+"Bruce Springsteen - Kitty's Back",
+"Bruce Springsteen - The Honeymooners",
+"Bruce Springsteen - Lucky Man",
+"Bruce Springsteen - Follow The Sun",
+"Bruce Springsteen - Mrs. McGrath",
+"Bruce Springsteen - O, Mary, Don’t You Weep",
+"Bruce Springsteen - Blood Brothers",
+"Bruce Springsteen - All the Way Home",
+"Bruce Springsteen - Drive All Night",
+"Bruce Springsteen - The Klansman",
+"Bruce Springsteen - Devils & Dust",
+"Bruce Springsteen - Farewell Party",
+"Bruce Springsteen - Heaven’s Wall",
+"Bruce Springsteen - Restless Nights",
+"Bruce Springsteen - Any Other Way",
+"Bruce Springsteen - We Are Alive",
+"Bruce Springsteen - Crush on You",
+"Bruce Springsteen - Don't Back Down On Our Love",
+"Bruce Springsteen - John Henry",
+"Bruce Springsteen - Secret Garden (Streets of Philadelphia Sessions)",
+"Bruce Springsteen - Candy’s Room",
+"Bruce Springsteen - The Sun Ain't Gonna Shine Anymore",
+"Bruce Springsteen - My Beautiful Reward",
+"Bruce Springsteen - I’ll Work for Your Love",
+"Bruce Springsteen - Living on the Edge of the World",
+"Bruce Springsteen - Tiger Rose",
+"Bruce Springsteen - I Wish I Were Blind",
+"Bruce Springsteen - Car Wash",
+"Bruce Springsteen - High Hopes",
+"Bruce Springsteen - Born To Run",
+"Bruce Springsteen - Darlington County",
+"Bruce Springsteen - Santa Claus Is Comin' to Town",
+"Bruce Springsteen - Streets of Minneapolis",
+"Bruce Springsteen - Tenth Avenue Freeze Out",
+"Bruce Springsteen - The Lost Charro",
+"Bruce Springsteen - Darkness on the Edge of Town",
+"Bruce Springsteen - She’s The One",
+"Bruce Springsteen - Cross My Heart",
+"Bruce Springsteen - Ain’t Got You",
+"Bruce Springsteen - Nothing Man",
+"Bruce Springsteen - One Step Up",
+"Bruce Springsteen - Silver Mountain",
+"Bruce Springsteen - Goin’ Cali",
+"Bruce Springsteen - Tomorrow Never Knows",
+"Bruce Springsteen - Cynthia",
+"Bruce Springsteen - Cadillac Ranch",
+"Bruce Springsteen - Zero and Blind Terry",
+"Bruce Springsteen - I’m on Fire",
+"Bruce Springsteen - Badlands",
+"Bruce Springsteen - Factory",
+"Bruce Springsteen - Two for the Road",
+"Bruce Springsteen - New York City Serenade",
+"Bruce Springsteen - My Father’s House",
+"Bruce Springsteen - Soul Driver",
+"Bruce Springsteen - Someday (We’ll Be Together)",
+"Bruce Springsteen - Wild Billy's Circus Story",
+"Bruce Springsteen - Countin’ on a Miracle",
+"Bruce Springsteen - You’re Gonna Miss Me When I’m Gone",
+"Bruce Springsteen - The Ghost of Tom Joad",
+"Bruce Springsteen - Rain In The River",
+"Bruce Springsteen - You Can Look (But You Better Not Touch)",
+"Bruce Springsteen - The Angel",
+"Bruce Springsteen - Cautious Man",
+"Bruce Springsteen - Souls of the Departed",
+"Bruce Springsteen - Devil’s Arcade",
+"Bruce Springsteen - Thunder Road",
+"Bruce Springsteen - Seaside Bar Song",
+"Bruce Springsteen - With Every Wish",
+"Bruce Springsteen - Backstreets",
+"Bruce Springsteen - The Rising",
+"Bruce Springsteen - Fugitive's Dream (Ballad)",
+"Bruce Springsteen - My Lucky Day",
+"Bruce Springsteen - Shackled and Drawn",
+"Bruce Springsteen - My Master's Hand (Theme)",
+"Bruce Springsteen - For You",
+"Bruce Springsteen - Fire",
+"Bruce Springsteen - The Great Depression",
+"Bruce Springsteen - Real Man",
+"Bruce Springsteen - The Little Things (My Baby Does)",
+"Bruce Springsteen - This Depression",
+"Bruce Springsteen - Let’s Be Friends (Skin to Skin)",
+"Bruce Springsteen - Shut Out the Light (LA Garage Sessions '83)",
+"Bruce Springsteen - Glory Days",
+"Bruce Springsteen - What Becomes of the Brokenhearted",
+"Bruce Springsteen - I Forgot To Be Your Lover - Bruce Springsteen feat. Sam Moore",
+"Bruce Springsteen - Janey Needs a Shooter",
+"Bruce Springsteen - One Beautiful Morning",
+"Bruce Springsteen - Between Heaven and Earth",
+"Bruce Springsteen - Breakaway",
+"Bruce Springsteen - Do I Love You (Indeed I Do)",
+"Bruce Springsteen - Bobby Jean",
+"Bruce Springsteen - Sunliner",
+"Bruce Springsteen - You’ll Be Comin’ Down",
+"Bruce Springsteen - My Master's Hand",
+"Bruce Springsteen - Pony Boy",
+"Bruce Springsteen - Atlantic City",
+"Bruce Springsteen - 4th of July, Asbury Park (Sandy)",
+"Bruce Springsteen - Does This Bus Stop At 82nd Street? - Demo Version - 1972",
+"Bruce Springsteen - All or Nothin’ at All",
+"Bruce Springsteen - Cutting Knife",
+"Bruce Springsteen - The Desert (Instrumental)",
+"Bruce Springsteen - One Minute You’re Here",
+"Bruce Springsteen - Happy",
+"Bruce Springsteen - One Way Street",
+"Bruce Springsteen - Pink Cadillac",
+"Bruce Springsteen - The Big Muddy",
+"Bruce Springsteen - Shut Out the Light (Tracks)",
+"Bruce Springsteen - Trouble in Paradise",
+"Bruce Springsteen - Fade Away",
+"Bruce Springsteen - Growin' Up",
+"Bruce Springsteen - Valentine’s Day",
+"Bruce Springsteen - Cover Me",
+"Bruce Springsteen - When She Was My Girl",
+"Bruce Springsteen - Something in the Well",
+"Bruce Springsteen - The Hitter",
+"Bruce Springsteen - Waitin’ on a Sunny Day",
+"Bruce Springsteen - Empty Sky",
+"Bruce Springsteen - Indian Town",
+"Bruce Springsteen - Jessie James",
+"Bruce Springsteen - Letter to You",
+"Bruce Springsteen - Lonesome Day",
+"Bruce Springsteen - Queen of the Supermarket",
+"Bruce Springsteen - I’m Not Sleeping",
+"Bruce Springsteen - You’re Missing",
+"Bruce Springsteen - Under A Big Sky",
+"Bruce Springsteen - Working on a Dream",
+"Bruce Springsteen - Only the Strong Survive",
+"Bruce Springsteen - Born in the U.S.A. - Demo Version (1982)",
     ]),
     On = {
       subscribe: ue(
         [{
-            url: "https://soundcloud.com/brucespringsteen/straight-time-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Straight Time",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/i-wish-it-would-rain?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I Wish It Would Rain",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/bishop-danced-live?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Bishop Danced",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/youll-be-comin-down-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You’ll Be Comin’ Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rocky-ground-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rocky Ground",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-fuse-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Fuse",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-ties-that-bind?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Ties That Bind",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/magic-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Magic",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/reno-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Reno",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/leap-of-faith-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Leap of Faith",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/two-hearts?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Two Hearts",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/im-goin-down?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’m Goin’ Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/working-on-a-dream?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Working on a Dream",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/pink-cadillac-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Pink Cadillac",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/aint-good-enough-for-you?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ain’t Good Enough For You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/valentines-day-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Valentine’s Day",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cover-me?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cover Me",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mary-lou-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mary Lou",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/surprise-surprise?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Surprise, Surprise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/frankie-fell-in-love-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Frankie Fell In Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-promise?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Promise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/galveston-bay-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Galveston Bay",
-          },
-          {
-            url: "https://soundcloud.com/springsteenheardle/placeholder",
-            answer: "REMOVED SONG"
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/for-you?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - For You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/you-can-look-but-you-better?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You Can Look (But You Better Not Touch)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/life-itself?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Life Itself",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hello-sunshine?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hello Sunshine",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/worlds-apart-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Worlds Apart",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/spare-parts-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Spare Parts",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/high-hopes-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - High Hopes",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/linda-let-me-be-the-one-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Linda Let Me Be the One",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/7-rooms-of-gloom?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - 7 Rooms Of Gloom",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/thundercrack-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Thundercrack",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-hometown-1?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Hometown",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-beautiful-reward-album?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Beautiful Reward",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/terrys-song?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Terry's Song",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-angel?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Angel",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/goin-cali-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Goin’ Cali",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/better-days-2?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Better Days",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/livin-in-the-future-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Livin’ in the Future",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/outside-looking-in?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Outside Looking In",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-rising?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Rising",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/bring-on-the-night-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Bring on the Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-lover-man-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Lover Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/secret-garden?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Secret Garden",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-hitter-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Hitter",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/meeting-across-the-river?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Meeting Across The River",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/long-walk-home-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Long Walk Home",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/growin-up?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Growin' Up",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/roll-of-the-dice-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Roll of the Dice",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/this-depression-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - This Depression",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/if-i-should-fall-behind?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - If I Should Fall Behind",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/someday-well-be-together?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Someday (We’ll Be Together)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jesse-james-just-ask?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jessie James",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/adam-raised-a-cain-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Adam Raised a Cain",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/this-hard-land?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - This Hard Land",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/give-the-girl-a-kiss-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Give the Girl a Kiss",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/good-eye?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Good Eye",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/only-the-strong-survive?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Only the Strong Survive",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sherry-darling?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sherry Darling",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/when-the-lights-go-out-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - When the Lights Go Out",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/gotta-get-that-feeling?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Gotta Get That Feeling",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/two-faces-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Two Faces",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mary-queen-of-arkansas?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mary Queen of Arkansas",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-lucky-day?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Lucky Day",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/long-time-comin?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Long Time Comin’",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sundown?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sundown",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/highway-29-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Highway 29",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/come-on-lets-go-tonight?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Come On (Let’s Go Tonight)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-wish-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Wish",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/wrecking-ball-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Wrecking Ball",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-honeymooners-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Honeymooners",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lonesome-day?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lonesome Day",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hey-western-union-man?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hey, Western Union Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/any-other-way?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Any Other Way",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lions-den-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lion’s Den",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/take-em-as-they-come?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Take ‘Em As They Come",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-long-goodbye-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Long Goodbye",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-price-you-pay?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Price You Pay",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/seven-angels-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Seven Angels",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/janey-needs-a-shooter?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Janey Needs a Shooter",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/we-shall-overcome?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - We Shall Overcome",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/bobby-jean?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Bobby Jean",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dry-lightning-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Dry Lightning",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/badlands-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Badlands",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/walk-like-a-man-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Walk Like a Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/stolen-car-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Stolen Car (Alternate Version)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sleepy-joes-cafe?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sleepy Joe’s Cafe",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/nothing-man-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Nothing Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/im-a-rocker?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’m a Rocker",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/santa-ana-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Santa Ana",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/girls-in-their-summer-1?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Girls in Their Summer Clothes",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sad-eyes-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sad Eyes",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mans-job-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Man’s Job",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rockaway-the-days-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rockaway the Days",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/all-im-thinkin-about-album?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - All I’m Thinkin’ About",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/nebraska?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Nebraska",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-wrestler-bonus-track?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Wrestler",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/chasin-wild-horses?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Chasin’ Wild Horses",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cautious-man-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cautious Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-love-will-not-let-you-down?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Love Will Not Let You Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street (’78 version)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Happy",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/when-youre-alone-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - When You’re Alone",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rendezvous?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rendezvous",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/no-surrender?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - No Surrender",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/wreck-on-the-highway?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Wreck on the Highway",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-new-timer-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The New Timer",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cadillac-ranch?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cadillac Ranch",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-sun-aint-gonna-shine?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Sun Ain't Gonna Shine Anymore",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/brothers-under-the-bridge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Brothers Under the Bridge ’83",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/i-forgot-to-be-your-lover-feat?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I Forgot To Be Your Lover - Bruce Springsteen feat. Sam Moore",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/fade-away?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Fade Away",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/4th-of-july-asbury-park-sandy?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - 4th of July, Asbury Park (Sandy)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/janey-dont-you-lose-heart-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a1251a2e96dd49f99210552029af4b24&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Janey Don’t You Lose Heart (Somewhere North of Nashville)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/queen-of-the-supermarket?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Queen of the Supermarket",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-false-move?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f82145c84bef4730991653b58419bf07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One False Move",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-ghost-of-tom-joad-4?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Ghost of Tom Joad",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/car-wash-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Car Wash",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/perfect-world?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=4b5b21217b3b4406ad372e869fa0ab15&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Perfect World",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/trouble-in-paradise-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Trouble in Paradise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/late-in-the-evening?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=85a5f32fd6844c5f9ceacb9f7ea618a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Late in the Evening",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/we-take-care-of-our-own-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - We Take Care of Our Own",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/independence-day?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Independence Day",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rainmaker?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rainmaker",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-last-carnival?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Last Carnival",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/im-not-sleeping?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a8e5ba9cbad942fbb263a9632bf71ccf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’m Not Sleeping",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/farewell-party?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=984af11c29cf49c0b344453cb891b91b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Farewell Party",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/be-true-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Be True",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hearts-of-stone-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hearts of Stone",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-great-depression?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d62428c3a50423596da53a5624aacb9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Blind Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/marys-place-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mary’s Place",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/its-hard-to-be-a-saint-in-the?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - It's Hard to Be a Saint in the City",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/state-trooper?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - State Trooper",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sinaloa-cowboys-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sinaloa Cowboys",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/drive-all-night?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Drive All Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/fire?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Fire",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cynthia-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cynthia",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ill-work-for-your-love-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’ll Work for Your Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tenth-avenue-freeze-out?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tenth Avenue Freeze Out",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/eyes-on-the-prize?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Eyes On The Prize",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/youre-missing-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You’re Missing",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/local-hero-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Local Hero",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-masters-hand?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=10e2ac92d8704798b252d7d7b1760e00&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Master's Hand",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/out-in-the-street?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Out in the Street",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/glorias-eyes-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Gloria’s Eyes",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tougher-than-the-rest?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tougher Than the Rest",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/down-in-the-hole-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Down In The Hole",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/inyo?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9d56600d55c141f48571d2da80d01502&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Inyo",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/youre-gonna-miss-me-when-im?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=6c5d84647d4641d998c15c4d1b420b36&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You’re Gonna Miss Me When I’m Gone",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/loose-change-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Loose Change",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/with-every-wish-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - With Every Wish",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dinner-at-eight?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a7fdba801ac5411a9d2c20cd0dad4e00&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Dinner at Eight",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/so-young-and-in-love-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - So Young and in Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/57-channels-and-nothin-on?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - 57 Channels (And Nothin’ On)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/radio-nowhere?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Radio Nowhere",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/waiting-on-the-end-of-the?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9c7b4ec8e58749e0894f295a2bb9893a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Waiting on the End of the World",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/last-man-standing?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Last Man Standing",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/a-night-with-the-jersey-devil?si=d68169fa77c04565b7e83689ca0abffe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - A Night with the Jersey Devil",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/brothers-under-the-bridge?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Brothers Under the Bridge",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/we-fell-down?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=654cab4d98be45d490046af82f4f5cc1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - We Fell Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/part-man-part-monkey-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Part Man, Part Monkey",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tiger-rose?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=ed667df30e7e419ab1e01b066a3e04a9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tiger Rose",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/american-skin-41-shots-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - American Skin (41 Shots)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lonely-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f8683f3e52874e429d7e3fac11ce81ac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lonely Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/seven-tears?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c0eda0de9f4547b081433aae59dbf578&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Seven Tears",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/detail-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=37530dc3102d4b70a59c780c20df1a5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Detail Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/born-to-run-1?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Born To Run",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jesus-was-an-only-son-the-song?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jesus Was an Only Son",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dream-baby-dream-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Dream Baby Dream",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jungleland?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jungleland",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tunnel-of-love?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tunnel of Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/gypsy-biker-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Gypsy Biker",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/what-becomes-of-the?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - What Becomes of the Brokenhearted",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/if-i-was-the-priest?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - If I Was the Priest",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/between-heaven-and-earth?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9e2f226f3ce54c80b28b3eb1d1f0c2ca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Between Heaven and Earth",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/man-at-the-top-album-version?in=brucespringsteen/sets/tracks-242&si=0648f86881f940848525c793f79b3721&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Man At The Top",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/real-man-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Real Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ramrod?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ramrod",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/roulette-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Roulette",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jim-deer?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=586ebf880dac4007a3adc41a93c7f254&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jim Deer",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ill-stand-by-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=4a93c94f104b4f7983191c2cb19b9106&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’ll Stand By You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/zero-and-blind-terry-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Zero and Blind Terry",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/brilliant-disguise-1?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Brilliant Disguise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-little-things-my-baby-does?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Little Things (My Baby Does)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-little-things?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8453612292e948df932986e31a515aee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Little Things",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/devils-arcade?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Devil’s Arcade",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/factory-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Factory",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/nightshift?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Nightshift",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/all-that-heaven-will-allow?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - All That Heaven Will Allow",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/im-on-fire?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’m on Fire",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-power-of-prayer?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Power of Prayer",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sugarland?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f72c8af056844a419ff0b88584398cd5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sugarland",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/living-proof?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Living Proof",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/fugitives-dream-ballad?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=7c057bde632f4e47b76cd746e1533816&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Fugitive's Dream (Ballad)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lets-be-friends-skin-to-skin?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Let’s Be Friends (Skin to Skin)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/froggie-went-a-courtin?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Froggie Went A-Courtin’",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/where-you-going-where-you-from?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b95c1fa8011c4f19ad435904999e9257&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Where You Going, Where You From",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/johnny-99?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Johnny 99",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/a-good-man-is-hard-to-find?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - A Good Man Is Hard to Find (Pittsburgh)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=45349df640674df0bad8e623476c9916&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/follow-that-dream?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8e1918c1ce624055b498d0a8bbe30936&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Follow That Dream",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/johnny-bye-bye-album-version?in=brucespringsteen/sets/tracks-242&si=ad50f99b5b15482f924e57b63b5b645f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Johnny Bye-Bye",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/crush-on-you?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Crush on You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/balboa-park-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Balboa Park",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mrs-mcgrath?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mrs. McGrath",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/living-on-the-edge-of-the?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Living on the Edge of the World",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/blue-highway?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2e7704aa077440fdb5e426e59f3a268e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Blue Highway",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/stand-on-it-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Stand on It (Tracks)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lost-in-the-flood?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lost in the Flood",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/wrong-side-of-the-street?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Wrong Side of the Street",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/outlaw-pete?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Outlaw Pete",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/what-love-can-do?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - What Love Can Do",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/spanish-eyes?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Spanish Eyes",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/leah-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Leah",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/does-this-bus-stop-at-82nd-1?in=brucespringsteen/sets/tracks-242&si=ffaf94b4a6e14bf58aebd1ccad7b9bec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Does This Bus Stop At 82nd Street? - Demo Version - 1972",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/further-on-up-the-road-album?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Further On (Up the Road)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/when-she-was-my-girl?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - When She Was My Girl",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/erie-canal?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Erie Canal",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/spirit-in-the-night?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Spirit in the Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/blood-brothers?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Blood Brothers",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/book-of-dreams-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Book of Dreams",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/repo-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=27faf14c23904e94b44f6dd34f29f078&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Repo Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cutting-knife?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=477a3394f1d94365897041ab2fdb3c81&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You Lifted Me Up",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-aztec-dance?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=efbbec95f22b4394b269fbe4bad7ea38&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Aztec Dance",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/blinded-by-the-light?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Blinded by the Light",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/this-is-your-sword-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - This Is Your Sword",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/silver-palomino-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Silver Palomino",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/where-the-bands-are-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Where the Bands Are",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dont-look-back-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Don’t Look Back",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/atlantic-city-1?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Atlantic City",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/gave-it-a-name-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Gave It a Name",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/into-the-fire-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Into the Fire",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/new-york-city-serenade?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - New York City Serenade",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jacobs-ladder-excerpt?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jacob’s Ladder",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/we-are-alive-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - We Are Alive",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-masters-hand-theme?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9e4dd5e4372548babd71386d9a46f3b1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Master's Hand (Theme)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/darkness-on-the-edge-of-town?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Darkness on the Edge of Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/open-all-night?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Open All Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/black-mountain-ballad?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a510058969704137965d5714898115e1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Black Mountain Ballad",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/goin-to-california?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a182da8fde5d4979b63e2aefa534dc0a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Western Sea (Instrumental)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/night?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/i-wanna-be-with-you-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I Wanna Be With You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/incident-on-57th-street?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Incident on 57th Street",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/god-sent-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a1c6653d5a594072886931504f909f9b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - God Sent You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/september-kisses?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=af9a2e07ab41460cabe8b8ff7394e058&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - September Kisses",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/highway-patrolman?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Highway Patrolman",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/delivery-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=60ba7ba571544466ae64524f2a4cd625&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Delivery Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/there-goes-my-miracle?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - There Goes My Miracle",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/a-prayer-by-the-river?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=0c1c9310425b42a69885a59be6c8f6f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - A Prayer by the River (Instrumental)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-best-was-never-good-enough?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Best Was Never Good Enough",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/human-touch-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Human Touch",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/maybe-i-dont-know-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d28986e92e34837902b90a2d0e0ad0b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Maybe I Don't Know You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tv-movie-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - TV Movie",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/save-my-love?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Save My Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lucky-town-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lucky Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dont-back-down-on-our-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a5aef29262654f96831b6a1976e5a79c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Don't Back Down On Our Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/across-the-border-album?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Across the Border",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-promised-land-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Promised Land",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/shut-out-the-light-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Shut Out the Light (Tracks)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/something-in-the-night?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Something In The Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/kittys-back?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Kitty's Back",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dancing-in-the-dark-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Dancing in the Dark",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/old-dan-tucker?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Old Dan Tucker",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/blind-spot?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=68cd59b6ac3042cf83284b739f8910eb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Blind Spot",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-city-of-ruins-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My City of Ruins",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-line-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Line",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/adelita?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c390504dcc384f08ad47ef9ad8cdf699&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Adelita",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/racing-in-the-street?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Racing in the Street",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ciudad-juarez?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c558d803ebb6401baec4425268eaf3b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ciudad Juarez",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/back-in-your-arms-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Back in Your Arms",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ricky-wants-a-man-of-her-own?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ricky Wants a Man of Her Own",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/stand-on-it?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8d7338d8e88b46f7bdcf34265e00368e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Stand On It (Somewhere North of Nashville)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/over-the-rise-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Over the Rise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/aint-got-you-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ain’t Got You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/shackled-and-drawn-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Shackled and Drawn",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-klansman?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=60a502f602224a8a99360658433c61a0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Klansman",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-river?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The River",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/wages-of-sin-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Wages of Sin",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jackson-cage?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jackson Cage",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/waitin-on-a-sunny-day-the-song?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Waitin’ on a Sunny Day",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/moonlight-motel?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Moonlight Motel",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/land-of-hope-and-dreams-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Land of Hope and Dreams",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/backstreets?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Backstreets",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/candys-boy?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Candy’s Boy",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ghosts?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Ghosts",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/santa-claus-is-comin-to-town?si=8d69ef78dd304ff3adaa11671c43ba5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Santa Claus Is Comin' to Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/talk-to-me?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Talk to Me",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-way-street?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One Way Street",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/iceman-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Iceman",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/pay-me-my-money-down?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Pay Me My Money Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/candys-room-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Candy’s Room",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sunday-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8729566928584b778c5e84915c5daba0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sunday Love",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/born-in-the-u-s-a?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Born in the U.S.A.",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rosalita-come-out-tonight?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rosalita (Come Out Tonight)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/fugitives-dream?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b0c5e8d936cd4361b825e7dab6db11ef&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Fugitive's Dream",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/souls-of-the-departed-album?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Souls of the Departed",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hitch-hikin?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hitch Hikin’",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/idiots-delight?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=424413c207e64780802f6e8f521787c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Idiot’s Delight",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/o-mary-dont-you-weep?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - O, Mary, Don’t You Weep",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/all-the-way-home-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - All the Way Home",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-hometown-4?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9cc6f538883f48ce9f08e09e2a19f7bf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Hometown (LA Garage Sessions '83)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/pony-boy-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Pony Boy",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/something-in-the-well?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f39dfd0737ef4a99b9a2606848030d4b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Something in the Well",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/death-to-my-hometown-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Death to My Hometown",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hungry-heart?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hungry Heart",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/harrys-place?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Harry’s Place",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-ghost-of-tom-joad-5?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Ghost of Tom Joad (Electric Version)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/twilight-hours?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a3e2ae34f7da45c285561d79f2a551dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Twilight Hours",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-big-muddy-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Big Muddy",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-great-depression?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d62428c3a50423596da53a5624aacb9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Great Depression",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/poor-side-of-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=eafe10d336814e83b6d31823d71809d4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Poor Side of Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/silver-mountain?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=27bfe7a271da4a669e4d6dda28ca87dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Silver Mountain",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/county-fair-1?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e827b2bec1414a3691dbc87ee6ebb276&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - County Fair",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tucson-train?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tucson Train",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/our-lady-of-monroe?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=1e697558cd40466e91a9ff60722ba6d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Our Lady of Monroe",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/two-of-us?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=d61398599c9546da92cfaf0e5459b3fa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Two of Us",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/thunder-road?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Thunder Road",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/point-blank?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Point Blank",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/i-wanna-marry-you?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I Wanna Marry You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/john-henry?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - John Henry",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/does-this-bus-stop-at-82nd?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Does This Bus Stop at 82nd Street?",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/seaside-bar-song-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Seaside Bar Song",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/johnny-bye-bye?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=7b3f3066e01a40bda99edb39c6ca9881&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Johnny Bye Bye (LA Garage Sessions '83)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/secret-garden-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=50a53c4f10e44a969b216522df23b38f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Secret Garden (Streets of Philadelphia Sessions)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/all-gods-children?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e35b34cc33cc4a4a9cfcc24be430c704&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - All God's Children",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/two-for-the-road-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Two for the Road",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/its-a-shame?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - It’s a Shame",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/born-in-the-u-s-a-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Born in the U.S.A. - Demo Version (1982)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/lucky-man-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Lucky Man",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/easy-money-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Easy Money",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/loose-end?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Loose Ends",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/tomorrow-never-knows?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Tomorrow Never Knows",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-desert-instrumental?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8fcb7b9e973f49c48acfe9173d0d01fd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Desert (Instrumental)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/stones?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Stones",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-wall-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Wall",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/jack-of-all-trades-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Jack of All Trades",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mansion-on-the-hill?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mansion on the Hill",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/growin-up-album-version?in=brucespringsteen/sets/tracks-242&si=c8ffada5c63e45e4a3ddcd25c276cef0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Growin' Up - Demo Version - 1972",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/rain-in-the-river?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=80810ff5aee443dba115fbef7e1e668a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Rain In The River",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/someday-well-be-together-1?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Someday We'll Be Together",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/stolen-car?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Stolen Car",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/shenandoah?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Shenandoah",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/kingdom-of-days?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Kingdom of Days",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/house-of-a-thousand-guitars?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - House of a Thousand Guitars",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-e-street-shuffle?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The E Street Shuffle",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/frankie-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Frankie",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/indian-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=763d458cff7d4c7cac538aba0722b41f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Indian Town",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dont-play-that-song?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Don't Play That Song",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-step-up?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One Step Up",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/richfield-whistle?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e29a822044fd4b4b909673d7c791d36e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Richfield Whistle",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/black-cowboys-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Black Cowboys",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-lost-charro?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e4c4baed83d2494db0775cbaf4cf5832&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Lost Charro",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/let-me-ride?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9b5852dd15d94bcb9f2f55000bf3304c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Let Me Ride",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/its-hard-to-be-a-saint-in?in=brucespringsteen/sets/tracks-242&si=e6200171686c46178e6f87d01ef0dcd8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - It's Hard To Be A Saint In The City - Demo Version - 1972",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/youve-got-it-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - You’ve Got It",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/downbound-train?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Downbound Train",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/somewhere-north-of-nashville?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Somewhere North of Nashville (Western Stars)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/do-i-love-you-indeed-i-do?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Do I Love You (Indeed I Do)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/last-to-die-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Last to Die",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cutting-knife?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=ead9725d54bc4a38a913fe423e46c33c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cutting Knife",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/prove-it-all-night-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Prove It All Night",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dont-back-down?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=3bef04f4b7d449309b6a6d1b38473240&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Don't Back Down",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/follow-the-sun?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=408aa78be2ce4b798a8afcda8c6822b2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Follow The Sun",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/somewhere-north-of-nashville-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e4869fe204ff4ca380f06794a4b2a831&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Somewhere North of Nashville (Tracks II)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/matamoros-banks-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Matamoros Banks",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/working-on-the-highway?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Working on the Highway",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-minute-youre-here?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One Minute You’re Here",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/countin-on-a-miracle-album?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Countin’ on a Miracle",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/burnin-train?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Burnin’ Train",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/leavin-train-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Leavin’ Train",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/when-i-build-my-beautiful?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e8b75e1a1fae44299818ed0433232608&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - When I Build My Beautiful House",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/streets-of-philadelphia-1?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Streets of Philadelphia",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-brokenhearted?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Brokenhearted",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/restless-nights?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Restless Nights",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/marias-bed-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Maria’s Bed",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/soul-days-feat-sam-moore?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Soul Days - Bruce Springsteen feat. Sam Moore",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/this-life?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - This Life",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/letter-to-you?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Letter to You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/soul-driver-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Soul Driver",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/under-a-big-sky?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=3335aa459e5e4a37805bd6f107817f0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Under A Big Sky",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/another-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=394d50d565864af8883f862ebf309eed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Another You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/another-thin-line?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8df1282ce0f946c5b73dfce1f70a01e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Another Thin Line",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/hunter-of-invisible-game-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Hunter Of Invisible Game",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/if-i-could-only-be-your-lover?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a2914c2192854143b3e8a88aafed13d2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - If I Could Only Be Your Lover",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-fathers-house?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Father’s House",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/mary-queen-of-arkansas-album?in=brucespringsteen/sets/tracks-242&si=01436acf50d24febbed21dbd3792940f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Mary Queen of Arkansas - Demo Version - 1972",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/el-jardinero-upon-the-death-of?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=566b1423cece4962a1853da3900d7df8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - El Jardinero (Upon the Death of Ramona)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/just-like-fire-would-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Just Like Fire Would",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/sunliner?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f28a5565eb174aa6ac3240bd55b3ec22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Sunliner",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/when-you-need-me-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - When You Need Me",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/western-stars?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Western Stars",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/one-beautiful-morning?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=0fdd06f6ab76471aae5e8672e1a92a3a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - One Beautiful Morning",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/high-sierra?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b29a6625d5d44df489815e8686f7f556&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - High Sierra",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/little-girl-like-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9f5d8cdb4fe948048ab9cbf1501c536e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Little Girl Like You",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/darlington-county?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Darlington County",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/paradise-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Paradise",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/song-for-orphans?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Song For Orphans",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/unsatisfied-heart?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=92ba02495f454d3a82ad03f7769c4601&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Unsatisfied Heart",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/reason-to-believe?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Reason to Believe",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/my-oklahoma-home?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - My Oklahoma Home",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/streets-of-fire-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Streets of Fire",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/devils-dust?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Devils & Dust",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/the-wayfarer?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - The Wayfarer",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/faithless?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=64e66b9e679f40c9bc198c6742143d71&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Faithless",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/youngstown-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Youngstown",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/wild-billys-circus-story?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Wild Billy's Circus Story",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/ill-see-you-in-my-dreams?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I’ll See You in My Dreams",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/shut-out-the-light?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=553d9eed49c04da091dfd98fd97abbdd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Shut Out The Light (LA Garage Sessions '83)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/goin-to-california?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a182da8fde5d4979b63e2aefa534dc0a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Goin' to California",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/i-wish-i-were-blind-album?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - I Wish I Were Blind",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/breakaway?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Breakaway",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/turn-back-the-hands-of-time?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Turn Back the Hands of Time",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/your-own-worst-enemy-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Your Own Worst Enemy",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/all-or-nothin-at-all-album?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - All or Nothin’ at All",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/used-cars?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Used Cars",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/shes-the-one?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - She’s The One",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/glory-days-1?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Glory Days",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/murder-incorporated?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Murder Incorporated",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/heavens-wall-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Heaven’s Wall",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/drive-fast-the-stuntman?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Drive Fast (The Stuntman)",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/cross-my-heart-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Cross My Heart",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/dollhouse-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Dollhouse",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/empty-sky-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Empty Sky",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/janey-dont-you-lose-heart?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Janey, Don’t You Lose Heart",
-          },
-          {
-            url: "https://soundcloud.com/brucespringsteen/because-the-night?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-            answer: "Bruce Springsteen - Because the Night",
-          },
+          url: "https://soundcloud.com/brucespringsteen/your-own-worst-enemy-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Your Own Worst Enemy",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/glorias-eyes-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Gloria’s Eyes",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/save-my-love?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Save My Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/part-man-part-monkey-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Part Man, Part Monkey",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/stolen-car-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Stolen Car (Alternate Version)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/just-like-fire-would-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Just Like Fire Would",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/im-goin-down?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’m Goin’ Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/twilight-hours?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a3e2ae34f7da45c285561d79f2a551dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Twilight Hours",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/black-cowboys-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Black Cowboys",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/stolen-car?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Stolen Car",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-wish-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Wish",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/give-the-girl-a-kiss-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Give the Girl a Kiss",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/old-dan-tucker?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Old Dan Tucker",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/eyes-on-the-prize?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Eyes On The Prize",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/seven-tears?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c0eda0de9f4547b081433aae59dbf578&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Seven Tears",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/linda-let-me-be-the-one-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Linda Let Me Be the One",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/secret-garden?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Secret Garden",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/paradise-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Paradise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/born-in-the-u-s-a?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Born in the U.S.A.",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/im-a-rocker?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’m a Rocker",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/bishop-danced-live?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Bishop Danced",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ill-stand-by-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=4a93c94f104b4f7983191c2cb19b9106&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’ll Stand By You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/this-life?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - This Life",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/brothers-under-the-bridge?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Brothers Under the Bridge",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-great-depression?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d62428c3a50423596da53a5624aacb9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Blind Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/harrys-place?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Harry’s Place",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-line-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Line",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/there-goes-my-miracle?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - There Goes My Miracle",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/we-fell-down?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=654cab4d98be45d490046af82f4f5cc1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - We Fell Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/late-in-the-evening?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=85a5f32fd6844c5f9ceacb9f7ea618a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Late in the Evening",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/what-love-can-do?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - What Love Can Do",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/downbound-train?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Downbound Train",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/another-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=394d50d565864af8883f862ebf309eed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Another You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/night?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dinner-at-eight?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a7fdba801ac5411a9d2c20cd0dad4e00&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Dinner at Eight",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/radio-nowhere?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Radio Nowhere",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/adelita?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c390504dcc384f08ad47ef9ad8cdf699&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Adelita",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/when-the-lights-go-out-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - When the Lights Go Out",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/living-proof?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Living Proof",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-new-timer-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The New Timer",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/used-cars?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Used Cars",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/last-man-standing?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Last Man Standing",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/over-the-rise-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Over the Rise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/further-on-up-the-road-album?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Further On (Up the Road)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/easy-money-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Easy Money",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/bring-on-the-night-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Bring on the Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/outside-looking-in?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Outside Looking In",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/racing-in-the-street?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Racing in the Street",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/meeting-across-the-river?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Meeting Across The River",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tunnel-of-love?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tunnel of Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/its-a-shame?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - It’s a Shame",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-wall-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Wall",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/silver-palomino-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Silver Palomino",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sinaloa-cowboys-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sinaloa Cowboys",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/if-i-was-the-priest?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - If I Was the Priest",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rocky-ground-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rocky Ground",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/balboa-park-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Balboa Park",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-brokenhearted?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Brokenhearted",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sunday-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8729566928584b778c5e84915c5daba0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sunday Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jack-of-all-trades-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jack of All Trades",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/black-mountain-ballad?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a510058969704137965d5714898115e1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Black Mountain Ballad",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jungleland?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jungleland",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/terrys-song?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Terry's Song",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/i-wanna-be-with-you-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I Wanna Be With You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-little-things?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8453612292e948df932986e31a515aee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Little Things",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ill-see-you-in-my-dreams?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’ll See You in My Dreams",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/our-lady-of-monroe?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=1e697558cd40466e91a9ff60722ba6d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Our Lady of Monroe",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/youngstown-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Youngstown",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/take-em-as-they-come?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Take ‘Em As They Come",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/pay-me-my-money-down?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Pay Me My Money Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/livin-in-the-future-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Livin’ in the Future",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/outlaw-pete?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Outlaw Pete",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/if-i-should-fall-behind?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - If I Should Fall Behind",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-price-you-pay?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Price You Pay",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mans-job-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Man’s Job",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-city-of-ruins-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My City of Ruins",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/worlds-apart-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Worlds Apart",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/stand-on-it?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8d7338d8e88b46f7bdcf34265e00368e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Stand On It (Somewhere North of Nashville)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/be-true-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Be True",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/highway-29-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Highway 29",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/marias-bed-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Maria’s Bed",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/growin-up-album-version?in=brucespringsteen/sets/tracks-242&si=c8ffada5c63e45e4a3ddcd25c276cef0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Growin' Up - Demo Version - 1972",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/adam-raised-a-cain-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Adam Raised a Cain",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/prove-it-all-night-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Prove It All Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/repo-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=27faf14c23904e94b44f6dd34f29f078&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Repo Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/september-kisses?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=af9a2e07ab41460cabe8b8ff7394e058&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - September Kisses",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/brothers-under-the-bridge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Brothers Under the Bridge ’83",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/frankie-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Frankie",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/thundercrack-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Thundercrack",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hey-western-union-man?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hey, Western Union Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/land-of-hope-and-dreams-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Land of Hope and Dreams",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/into-the-fire-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Into the Fire",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/leah-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Leah",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lonely-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f8683f3e52874e429d7e3fac11ce81ac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lonely Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-wrestler-bonus-track?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Wrestler",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-long-goodbye-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Long Goodbye",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/iceman-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Iceman",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/out-in-the-street?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Out in the Street",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/two-hearts?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Two Hearts",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sundown?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sundown",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/house-of-a-thousand-guitars?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - House of a Thousand Guitars",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/a-prayer-by-the-river?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=0c1c9310425b42a69885a59be6c8f6f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - A Prayer by the River (Instrumental)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/marys-place-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mary’s Place",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/long-time-comin?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Long Time Comin’",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/idiots-delight?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=424413c207e64780802f6e8f521787c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Idiot’s Delight",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/loose-change-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Loose Change",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-ties-that-bind?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Ties That Bind",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/song-for-orphans?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Song For Orphans",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/youve-got-it-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You’ve Got It",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/erie-canal?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Erie Canal",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/two-of-us?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=d61398599c9546da92cfaf0e5459b3fa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Two of Us",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/wrecking-ball-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Wrecking Ball",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/all-im-thinkin-about-album?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - All I’m Thinkin’ About",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lions-den-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lion’s Den",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/magic-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Magic",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/american-skin-41-shots-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - American Skin (41 Shots)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/better-days-2?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Better Days",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/maybe-i-dont-know-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d28986e92e34837902b90a2d0e0ad0b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Maybe I Don't Know You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/turn-back-the-hands-of-time?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Turn Back the Hands of Time",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/follow-that-dream?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8e1918c1ce624055b498d0a8bbe30936&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Follow That Dream",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/talk-to-me?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Talk to Me",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-best-was-never-good-enough?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Best Was Never Good Enough",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/57-channels-and-nothin-on?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - 57 Channels (And Nothin’ On)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/racing-in-the-street-78?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Racing in the Street (’78 version)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rockaway-the-days-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rockaway the Days",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/independence-day?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Independence Day",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/santa-ana-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Santa Ana",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/gave-it-a-name-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Gave It a Name",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/county-fair-1?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e827b2bec1414a3691dbc87ee6ebb276&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - County Fair",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/somewhere-north-of-nashville?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Somewhere North of Nashville (Western Stars)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jacobs-ladder-excerpt?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jacob’s Ladder",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-love-will-not-let-you-down?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Love Will Not Let You Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dancing-in-the-dark-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Dancing in the Dark",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/chasin-wild-horses?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Chasin’ Wild Horses",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/blue-highway?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2e7704aa077440fdb5e426e59f3a268e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Blue Highway",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/man-at-the-top-album-version?in=brucespringsteen/sets/tracks-242&si=0648f86881f940848525c793f79b3721&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Man At The Top",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/book-of-dreams-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Book of Dreams",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/delivery-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=60ba7ba571544466ae64524f2a4cd625&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Delivery Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rainmaker?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rainmaker",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/all-that-heaven-will-allow?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - All That Heaven Will Allow",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jim-deer?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=586ebf880dac4007a3adc41a93c7f254&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jim Deer",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tucson-train?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tucson Train",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/blind-spot?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=68cd59b6ac3042cf83284b739f8910eb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Blind Spot",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/last-to-die-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Last to Die",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/western-stars?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Western Stars",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/this-is-your-sword-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - This Is Your Sword",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/janey-dont-you-lose-heart?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Janey, Don’t You Lose Heart",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/spirit-in-the-night?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Spirit in the Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/streets-of-philadelphia-1?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Streets of Philadelphia",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/janey-dont-you-lose-heart-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a1251a2e96dd49f99210552029af4b24&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Janey Don’t You Lose Heart (Somewhere North of Nashville)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/frankie-fell-in-love-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Frankie Fell In Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=45349df640674df0bad8e623476c9916&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/perfect-world?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=4b5b21217b3b4406ad372e869fa0ab15&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Perfect World",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-power-of-prayer?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Power of Prayer",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hitch-hikin?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hitch Hikin’",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/another-thin-line?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8df1282ce0f946c5b73dfce1f70a01e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Another Thin Line",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/unsatisfied-heart?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=92ba02495f454d3a82ad03f7769c4601&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Unsatisfied Heart",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/drive-fast-the-stuntman?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Drive Fast (The Stuntman)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/matamoros-banks-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Matamoros Banks",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/roulette-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Roulette",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/murder-incorporated?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Murder Incorporated",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/spanish-eyes?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Spanish Eyes",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/spare-parts-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Spare Parts",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/wrong-side-of-the-street?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Wrong Side of the Street",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rendezvous?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rendezvous",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/a-good-man-is-hard-to-find?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - A Good Man Is Hard to Find (Pittsburgh)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hello-sunshine?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hello Sunshine",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/death-to-my-hometown-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Death to My Hometown",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jesus-was-an-only-son-the-song?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jesus Was an Only Son",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-wayfarer?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Wayfarer",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/its-hard-to-be-a-saint-in?in=brucespringsteen/sets/tracks-242&si=e6200171686c46178e6f87d01ef0dcd8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - It's Hard To Be A Saint In The City - Demo Version - 1972",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/wreck-on-the-highway?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Wreck on the Highway",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/little-girl-like-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9f5d8cdb4fe948048ab9cbf1501c536e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Little Girl Like You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/girls-in-their-summer-1?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Girls in Their Summer Clothes",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hunter-of-invisible-game-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hunter Of Invisible Game",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/open-all-night?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Open All Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ramrod?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ramrod",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dont-back-down?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=3bef04f4b7d449309b6a6d1b38473240&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Don't Back Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/roll-of-the-dice-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Roll of the Dice",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/no-surrender?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - No Surrender",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-river?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The River",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mary-queen-of-arkansas?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mary Queen of Arkansas",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/stones?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Stones",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/inyo?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9d56600d55c141f48571d2da80d01502&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Inyo",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/down-in-the-hole-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Down In The Hole",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/does-this-bus-stop-at-82nd?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Does This Bus Stop at 82nd Street?",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/where-the-bands-are-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Where the Bands Are",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dont-look-back-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Don’t Look Back",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/highway-patrolman?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Highway Patrolman",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hungry-heart?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hungry Heart",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/poor-side-of-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=eafe10d336814e83b6d31823d71809d4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Poor Side of Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/gotta-get-that-feeling?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Gotta Get That Feeling",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/its-hard-to-be-a-saint-in-the?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - It's Hard to Be a Saint in the City",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/johnny-bye-bye-album-version?in=brucespringsteen/sets/tracks-242&si=ad50f99b5b15482f924e57b63b5b645f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Johnny Bye-Bye",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/walk-like-a-man-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Walk Like a Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/reno-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Reno",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/god-sent-you?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a1c6653d5a594072886931504f909f9b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - God Sent You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/johnny-bye-bye?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=7b3f3066e01a40bda99edb39c6ca9881&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Johnny Bye Bye (LA Garage Sessions '83)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/goin-to-california?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a182da8fde5d4979b63e2aefa534dc0a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Goin' to California",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/point-blank?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Point Blank",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-e-street-shuffle?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The E Street Shuffle",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/surprise-surprise?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Surprise, Surprise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mansion-on-the-hill?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mansion on the Hill",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/fugitives-dream?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b0c5e8d936cd4361b825e7dab6db11ef&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Fugitive's Dream",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/stand-on-it-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Stand on It (Tracks)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-oklahoma-home?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Oklahoma Home",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/local-hero-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Local Hero",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/wages-of-sin-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Wages of Sin",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ghosts?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ghosts",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sleepy-joes-cafe?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sleepy Joe’s Cafe",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/all-gods-children?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e35b34cc33cc4a4a9cfcc24be430c704&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - All God's Children",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-promised-land-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Promised Land",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/leavin-train-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Leavin’ Train",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/7-rooms-of-gloom?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - 7 Rooms Of Gloom",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-false-move?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f82145c84bef4730991653b58419bf07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One False Move",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/state-trooper?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - State Trooper",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-hometown-4?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9cc6f538883f48ce9f08e09e2a19f7bf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Hometown (LA Garage Sessions '83)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/nebraska?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Nebraska",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/loose-end?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Loose Ends",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/gypsy-biker-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Gypsy Biker",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/when-youre-alone-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - When You’re Alone",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/if-i-could-only-be-your-lover?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a2914c2192854143b3e8a88aafed13d2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - If I Could Only Be Your Lover",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/brilliant-disguise-1?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Brilliant Disguise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/let-me-ride?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9b5852dd15d94bcb9f2f55000bf3304c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Let Me Ride",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/soul-days-feat-sam-moore?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Soul Days - Bruce Springsteen feat. Sam Moore",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dont-play-that-song?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Don't Play That Song",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/burnin-train?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Burnin’ Train",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/shenandoah?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Shenandoah",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ciudad-juarez?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=c558d803ebb6401baec4425268eaf3b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ciudad Juarez",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/somewhere-north-of-nashville-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e4869fe204ff4ca380f06794a4b2a831&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Somewhere North of Nashville (Tracks II)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/waiting-on-the-end-of-the?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9c7b4ec8e58749e0894f295a2bb9893a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Waiting on the End of the World",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-aztec-dance?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=efbbec95f22b4394b269fbe4bad7ea38&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Aztec Dance",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/someday-well-be-together-1?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Someday We'll Be Together",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/come-on-lets-go-tonight?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Come On (Let’s Go Tonight)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-lover-man-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Lover Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dollhouse-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Dollhouse",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/we-take-care-of-our-own-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - We Take Care of Our Own",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dream-baby-dream-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Dream Baby Dream",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/faithless?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=64e66b9e679f40c9bc198c6742143d71&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Faithless",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/i-wanna-marry-you?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I Wanna Marry You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/where-you-going-where-you-from?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b95c1fa8011c4f19ad435904999e9257&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Where You Going, Where You From",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/moonlight-motel?in=brucespringsteen/sets/western-stars-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Moonlight Motel",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/reason-to-believe?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Reason to Believe",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mary-lou-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mary Lou",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lost-in-the-flood?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lost in the Flood",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-last-carnival?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Last Carnival",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/nightshift?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Nightshift",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/galveston-bay-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Galveston Bay",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-promise?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Promise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/incident-on-57th-street?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Incident on 57th Street",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tougher-than-the-rest?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tougher Than the Rest",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/blinded-by-the-light?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Blinded by the Light",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lucky-town-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lucky Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/aint-good-enough-for-you?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ain’t Good Enough For You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/two-faces-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Two Faces",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/a-night-with-the-jersey-devil?si=d68169fa77c04565b7e83689ca0abffe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - A Night with the Jersey Devil",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/high-sierra?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=b29a6625d5d44df489815e8686f7f556&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - High Sierra",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jackson-cage?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jackson Cage",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/leap-of-faith-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Leap of Faith",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/human-touch-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Human Touch",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/detail-man?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=37530dc3102d4b70a59c780c20df1a5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Detail Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/straight-time-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Straight Time",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dry-lightning-album-version?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Dry Lightning",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sugarland?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f72c8af056844a419ff0b88584398cd5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sugarland",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rosalita-come-out-tonight?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rosalita (Come Out Tonight)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/streets-of-fire-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Streets of Fire",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/back-in-your-arms-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Back in Your Arms",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/so-young-and-in-love-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - So Young and in Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/this-hard-land?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - This Hard Land",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/something-in-the-night?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Something In The Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sad-eyes-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sad Eyes",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/across-the-border-album?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Across the Border",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-ghost-of-tom-joad-5?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Ghost of Tom Joad (Electric Version)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/i-wish-it-would-rain?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I Wish It Would Rain",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/richfield-whistle?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e29a822044fd4b4b909673d7c791d36e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Richfield Whistle",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/we-shall-overcome?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - We Shall Overcome",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cutting-knife?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=477a3394f1d94365897041ab2fdb3c81&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You Lifted Me Up",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/working-on-the-highway?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Working on the Highway",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/because-the-night?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Because the Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mary-queen-of-arkansas-album?in=brucespringsteen/sets/tracks-242&si=01436acf50d24febbed21dbd3792940f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mary Queen of Arkansas - Demo Version - 1972",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/kingdom-of-days?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Kingdom of Days",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/when-i-build-my-beautiful?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e8b75e1a1fae44299818ed0433232608&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - When I Build My Beautiful House",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sherry-darling?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sherry Darling",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-fuse-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Fuse",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/candys-boy?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Candy’s Boy",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/hearts-of-stone-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Hearts of Stone",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ricky-wants-a-man-of-her-own?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ricky Wants a Man of Her Own",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/goin-to-california?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a182da8fde5d4979b63e2aefa534dc0a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Western Sea (Instrumental)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/froggie-went-a-courtin?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Froggie Went A-Courtin’",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/johnny-99?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Johnny 99",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-hometown-1?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Hometown",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/el-jardinero-upon-the-death-of?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=566b1423cece4962a1853da3900d7df8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - El Jardinero (Upon the Death of Ramona)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/when-you-need-me-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - When You Need Me",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/seven-angels-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Seven Angels",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/good-eye?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Good Eye",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/life-itself?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Life Itself",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/long-walk-home-album-version?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Long Walk Home",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tv-movie-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - TV Movie",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/kittys-back?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Kitty's Back",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-honeymooners-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Honeymooners",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lucky-man-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lucky Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/follow-the-sun?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=408aa78be2ce4b798a8afcda8c6822b2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Follow The Sun",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/mrs-mcgrath?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Mrs. McGrath",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/o-mary-dont-you-weep?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - O, Mary, Don’t You Weep",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/blood-brothers?in=brucespringsteen/sets/greatest-hits-760&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Blood Brothers",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/all-the-way-home-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - All the Way Home",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/drive-all-night?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Drive All Night",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-klansman?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=60a502f602224a8a99360658433c61a0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Klansman",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/devils-dust?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Devils & Dust",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/farewell-party?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=984af11c29cf49c0b344453cb891b91b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Farewell Party",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/heavens-wall-3?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Heaven’s Wall",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/restless-nights?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Restless Nights",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/any-other-way?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Any Other Way",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/we-are-alive-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - We Are Alive",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/crush-on-you?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Crush on You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/dont-back-down-on-our-love?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a5aef29262654f96831b6a1976e5a79c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Don't Back Down On Our Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/john-henry?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - John Henry",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/secret-garden-2?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=50a53c4f10e44a969b216522df23b38f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Secret Garden (Streets of Philadelphia Sessions)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/candys-room-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Candy’s Room",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-sun-aint-gonna-shine?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Sun Ain't Gonna Shine Anymore",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-beautiful-reward-album?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Beautiful Reward",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/ill-work-for-your-love-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’ll Work for Your Love",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/living-on-the-edge-of-the?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Living on the Edge of the World",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tiger-rose?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=ed667df30e7e419ab1e01b066a3e04a9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tiger Rose",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/i-wish-i-were-blind-album?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I Wish I Were Blind",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/car-wash-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Car Wash",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/high-hopes-2?in=brucespringsteen/sets/high-hopes-4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - High Hopes",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/born-to-run-1?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Born To Run",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/darlington-county?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Darlington County",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/santa-claus-is-comin-to-town?si=8d69ef78dd304ff3adaa11671c43ba5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Santa Claus Is Comin' to Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/streets-of-minneapolis?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Streets of Minneapolis",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tenth-avenue-freeze-out?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tenth Avenue Freeze Out",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-lost-charro?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=e4c4baed83d2494db0775cbaf4cf5832&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Lost Charro",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/darkness-on-the-edge-of-town?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Darkness on the Edge of Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/shes-the-one?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - She’s The One",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cross-my-heart-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cross My Heart",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/aint-got-you-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Ain’t Got You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/nothing-man-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Nothing Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-step-up?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One Step Up",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/silver-mountain?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=27bfe7a271da4a669e4d6dda28ca87dc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Silver Mountain",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/goin-cali-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Goin’ Cali",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/tomorrow-never-knows?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Tomorrow Never Knows",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cynthia-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cynthia",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cadillac-ranch?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cadillac Ranch",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/zero-and-blind-terry-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Zero and Blind Terry",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/im-on-fire?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’m on Fire",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/badlands-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Badlands",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/factory-remastered?in=brucespringsteen/sets/darkness-on-the-edge-of-town-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Factory",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/two-for-the-road-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Two for the Road",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/new-york-city-serenade?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - New York City Serenade",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-fathers-house?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Father’s House",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/soul-driver-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Soul Driver",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/someday-well-be-together?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Someday (We’ll Be Together)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/wild-billys-circus-story?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Wild Billy's Circus Story",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/countin-on-a-miracle-album?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Countin’ on a Miracle",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/youre-gonna-miss-me-when-im?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=6c5d84647d4641d998c15c4d1b420b36&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You’re Gonna Miss Me When I’m Gone",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-ghost-of-tom-joad-4?in=brucespringsteen/sets/the-ghost-of-tom-joad-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Ghost of Tom Joad",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/rain-in-the-river?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=80810ff5aee443dba115fbef7e1e668a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Rain In The River",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/you-can-look-but-you-better?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You Can Look (But You Better Not Touch)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-angel?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Angel",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cautious-man-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cautious Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/souls-of-the-departed-album?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Souls of the Departed",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/devils-arcade?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Devil’s Arcade",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/thunder-road?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Thunder Road",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/seaside-bar-song-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Seaside Bar Song",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/with-every-wish-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - With Every Wish",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/backstreets?in=brucespringsteen/sets/born-to-run-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Backstreets",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-rising?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Rising",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/fugitives-dream-ballad?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=7c057bde632f4e47b76cd746e1533816&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Fugitive's Dream (Ballad)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-lucky-day?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Lucky Day",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/shackled-and-drawn-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Shackled and Drawn",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-masters-hand-theme?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9e4dd5e4372548babd71386d9a46f3b1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Master's Hand (Theme)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/for-you?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - For You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/fire?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Fire",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-great-depression?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=2d62428c3a50423596da53a5624aacb9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Great Depression",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/real-man-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Real Man",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-little-things-my-baby-does?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Little Things (My Baby Does)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/this-depression-1?in=brucespringsteen/sets/wrecking-ball-9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - This Depression",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lets-be-friends-skin-to-skin?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Let’s Be Friends (Skin to Skin)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/shut-out-the-light?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=553d9eed49c04da091dfd98fd97abbdd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Shut Out the Light (LA Garage Sessions '83)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/glory-days-1?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Glory Days",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/what-becomes-of-the?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - What Becomes of the Brokenhearted",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/i-forgot-to-be-your-lover-feat?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I Forgot To Be Your Lover - Bruce Springsteen feat. Sam Moore",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/janey-needs-a-shooter?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Janey Needs a Shooter",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-beautiful-morning?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=0fdd06f6ab76471aae5e8672e1a92a3a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One Beautiful Morning",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/between-heaven-and-earth?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=9e2f226f3ce54c80b28b3eb1d1f0c2ca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Between Heaven and Earth",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/breakaway?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Breakaway",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/do-i-love-you-indeed-i-do?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Do I Love You (Indeed I Do)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/bobby-jean?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Bobby Jean",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/sunliner?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f28a5565eb174aa6ac3240bd55b3ec22&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Sunliner",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/youll-be-comin-down-album?in=brucespringsteen/sets/magic-329&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You’ll Be Comin’ Down",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/my-masters-hand?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=10e2ac92d8704798b252d7d7b1760e00&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - My Master's Hand",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/pony-boy-album-version?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Pony Boy",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/atlantic-city-1?in=brucespringsteen/sets/nebraska-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Atlantic City",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/4th-of-july-asbury-park-sandy?in=brucespringsteen/sets/the-wild-the-innocent-the-e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - 4th of July, Asbury Park (Sandy)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/does-this-bus-stop-at-82nd-1?in=brucespringsteen/sets/tracks-242&si=ffaf94b4a6e14bf58aebd1ccad7b9bec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Does This Bus Stop At 82nd Street? - Demo Version - 1972",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/all-or-nothin-at-all-album?in=brucespringsteen/sets/human-touch-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - All or Nothin’ at All",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cutting-knife?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=ead9725d54bc4a38a913fe423e46c33c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cutting Knife",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-desert-instrumental?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=8fcb7b9e973f49c48acfe9173d0d01fd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Desert (Instrumental)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-minute-youre-here?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One Minute You’re Here",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/happy-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Happy",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/one-way-street?in=brucespringsteen/sets/the-promise-30&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - One Way Street",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/pink-cadillac-album-version?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Pink Cadillac",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-big-muddy-album-version?in=brucespringsteen/sets/lucky-town&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Big Muddy",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/shut-out-the-light-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Shut Out the Light (Tracks)",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/trouble-in-paradise-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Trouble in Paradise",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/fade-away?in=brucespringsteen/sets/the-ties-that-bind-the-river&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Fade Away",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/growin-up?in=brucespringsteen/sets/greetings-from-asbury-park-n-j&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Growin' Up",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/valentines-day-album-version?in=brucespringsteen/sets/tunnel-of-love-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Valentine’s Day",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/cover-me?in=brucespringsteen/sets/born-in-the-u-s-a-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Cover Me",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/when-she-was-my-girl?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - When She Was My Girl",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/something-in-the-well?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=f39dfd0737ef4a99b9a2606848030d4b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Something in the Well",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/the-hitter-album-version?in=brucespringsteen/sets/devils-dust-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - The Hitter",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/waitin-on-a-sunny-day-the-song?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Waitin’ on a Sunny Day",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/empty-sky-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Empty Sky",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/indian-town?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=763d458cff7d4c7cac538aba0722b41f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Indian Town",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/jesse-james-just-ask?in=brucespringsteen/sets/we-shall-overcome-the-seeger&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Jessie James",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/letter-to-you?in=brucespringsteen/sets/letter-to-you-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Letter to You",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/lonesome-day?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Lonesome Day",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/queen-of-the-supermarket?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Queen of the Supermarket",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/im-not-sleeping?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=a8e5ba9cbad942fbb263a9632bf71ccf&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - I’m Not Sleeping",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/youre-missing-album-version?in=brucespringsteen/sets/the-rising-6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - You’re Missing",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/under-a-big-sky?in=brucespringsteen/sets/tracks-ii-the-lost-albums&si=3335aa459e5e4a37805bd6f107817f0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Under A Big Sky",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/working-on-a-dream?in=brucespringsteen/sets/working-on-a-dream&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Working on a Dream",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/only-the-strong-survive?in=brucespringsteen/sets/only-the-strong-761004841&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Only the Strong Survive",
+        },
+        {
+          url: "https://soundcloud.com/brucespringsteen/born-in-the-u-s-a-album?in=brucespringsteen/sets/tracks-252&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          answer: "Bruce Springsteen - Born in the U.S.A. - Demo Version (1982)",
+        },
         ],
         Pn
       ).subscribe,
