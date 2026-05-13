@@ -4110,7 +4110,7 @@ function Nt(t) {
       attemptInterval: 1e3,
       attemptIntervalAlt: [1e3, 2e3, 4e3, 7e3, 11e3, 16e3],
       maxAttempts: 6,
-      startDate: "2026-05-08"
+      startDate: "2026-05-06"
     },
     Jt = ["Looks like you got Lost in the Flood.", "This one was made For You.", "You took a Leap of Faith with that one.", "You're The One!", "You're on Fire!", "In this town full of losers, you're pulling outta here a winner!", "You were Countin' On a Miracle today."];
 
@@ -4688,7 +4688,7 @@ function Nt(t) {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "Springsteen Heardle #" + (s.id - 4),
+          let e = "Springsteen Heardle #" + (s.id - 6),
             t = "";
           a
             ?
